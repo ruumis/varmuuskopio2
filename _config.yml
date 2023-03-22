@@ -44,4 +44,6 @@ search:
 # Supports true (default) or false
 heading_anchors: true
 
+plugins:
+  - jekyll-numbered-headings
 
