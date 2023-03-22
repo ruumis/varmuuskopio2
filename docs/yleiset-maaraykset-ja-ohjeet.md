@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ylioppilastutkintolautakunnan yleiset määräykset ja ohjeet
+title: Yleiset määräykset ja ohjeet
 nav_order: 2
 ---
 
