@@ -5,3 +5,8 @@ gem "jekyll", "~> 4.3" # installed by `gem jekyll`
 
 gem "just-the-docs", "0.4.2" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
+
+# Legal numbers in headings (##1. Someheading)
+group :jekyll_plugins do
+    gem 'jekyll-numbered-headings'
+end

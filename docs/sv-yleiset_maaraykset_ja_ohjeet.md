@@ -250,7 +250,7 @@ och nyckeltalslistorna
 [2.5 Dokument som ska arkiveras i gymnasiet
 [72](#dokument-som-ska-arkiveras-i-gymnasiet)](#dokument-som-ska-arkiveras-i-gymnasiet)
 
-## Studentexamen
+##1. Studentexamen
 
 I lagen om studentexamen (502/2019), statsrådets förordning om
 studentexamen (612/2019) och i lagen om nationella studie- och
@@ -281,7 +281,7 @@ att utföra prov också på ett annat examensspråk. Gymnasiet anordnar
 endast sådana prov som kan ingå i en studentexamen som utförs på
 gymnasiets undervisningsspråk.
 
-## Avläggande av examen {#avläggande-av-examen .Otsikko-3.1}
+###1. Avläggande av examen {#avläggande-av-examen}
 
 Studentexamen har avlagts när examinanden har blivit godkänd i de prov
 som krävs för examen samt med godkänt resultat slutfört en examen eller
@@ -310,9 +310,9 @@ Om examinanden inte har avlagt examen inom föreskriven tid, betraktas
 examen som underkänd. Examen kan då börja genomföras på nytt. (se 1.1.5
 Att påbörja examen på nytt efter underkänd examen).
 
-## Ämneskombinationen i examen {#ämneskombinationen-i-examen .Otsikko-4.1}
+####1. Ämneskombinationen i examen {#ämneskombinationen-i-examen}
 
-## Examen som påbörjats hösten 2021 eller tidigare  {#examen-som-påbörjats-hösten-2021-eller-tidigare .Otsikko-5.1}
+#####1. Examen som påbörjats hösten 2021 eller tidigare  {#examen-som-påbörjats-hösten-2021-eller-tidigare}
 
 Studentexamen omfattar minst fyra prov, av vilka provet i modersmål och
 litteratur är obligatoriskt för alla. De tre andra obligatoriska proven
@@ -326,7 +326,7 @@ prov eller provet i modersmålet och litteratur när det avlagts som
 provet i det andra inhemska språket. I studentexamen får ingå endast ett
 prov i samma ämne. (L 672/2005, 6 §)
 
-## Examen som påbörjats våren 2022 eller senare  {#examen-som-påbörjats-våren-2022-eller-senare .Otsikko-5.1}
+#####1. Examen som påbörjats våren 2022 eller senare  {#examen-som-påbörjats-våren-2022-eller-senare}
 
 En examinand som avlägger studentexamen ska avlägga minst fem prov i
 olika examensämnen. Provet i modersmål och litteratur ska avläggas som
@@ -349,13 +349,13 @@ studentexamen kan endast ingå ett prov i ett och samma läroämne.
 Examinanden kan dessutom avlägga ett eller flera andra prov. (L
 502/2019, 10 § 2 mom.)
 
-## Påbörjande av examen  {#påbörjande-av-examen .Otsikko-4.1}
+####1. Påbörjande av examen  {#påbörjande-av-examen}
 
 Avläggandet av examen påbörjas då examinanden anmäler sig för första
 gången som avläggare av examen (se 1.3. Rätten att delta i examen och
 1.4. Anmälan).
 
-## Beviljande av förlängd tid för att avlägga examen {#beviljande-av-förlängd-tid-för-att-avlägga-examen .Otsikko-4.1}
+####1. Beviljande av förlängd tid för att avlägga examen {#beviljande-av-förlängd-tid-för-att-avlägga-examen}
 
 En examinand som påbörjat sin examen hösten 2021 eller tidigare och som
 har deltagit i ett examenstillfälle och på grund av heltidsstudier
@@ -387,7 +387,7 @@ av studier utomlands eller dylik orsak eller dess bilagor ska framgå
 tidpunkten för inledningen och avslutning av studierna eller
 motsvarande.
 
-## Att börja examen från början när en del av examen är avlagd {#att-börja-examen-från-början-när-en-del-av-examen-är-avlagd .Otsikko-4.1}
+####1. Att börja examen från början när en del av examen är avlagd {#att-börja-examen-från-början-när-en-del-av-examen-är-avlagd}
 
 Studentexamensnämnden kan på ansökan och av synnerligen vägande skäl
 besluta att en examinand som har avlagt endast en del av studentexamen
@@ -399,7 +399,7 @@ nämnden.
 Examinanden kan inte innefatta prov från examen som blivit på hälft i
 den nya examen.
 
-## Att börja examen från början efter underkänd examen {#att-börja-examen-från-början-efter-underkänd-examen .Otsikko-4.1}
+####1. Att börja examen från början efter underkänd examen {#att-börja-examen-från-början-efter-underkänd-examen}
 
 En examen som inte kan avläggas under de examenstillfällen som kvarstår
 medräknat tiden för omtagning av underkända prov, betraktas som
@@ -420,7 +420,7 @@ anmälningsuppgifterna till nämnden. Tillkännagivandet ska dock senast
 göras enligt den tidtabell som anges i 1.1.8 (När studierna slutförs
 efter att proven avlagts). (Omtagning av innefattat prov, se 1.3.4.)
 
-##  Avläggande av enskilda prov {#avläggande-av-enskilda-prov .Otsikko-4.1}
+####1.  Avläggande av enskilda prov {#avläggande-av-enskilda-prov}
 
 Den som inte har avlagt studentexamen får avlägga proven i studentexamen
 som enskilda prov. Enskilda prov utgör inte en studentexamen. Enskilda
@@ -439,7 +439,7 @@ Tillkännagivandet kan göras i vilket skede av examen som helst, dock
 senast enligt den tidtabell som anges i 1.1.8 (När studierna slutförs
 efter att proven avlagts). (Omtagning av innefattat prov, se 1.3.4.)
 
-## Avläggande av examen med ett underkänt prov (kompensation) {#avläggande-av-examen-med-ett-underkänt-prov-kompensation .Otsikko-4.1}
+####1. Avläggande av examen med ett underkänt prov (kompensation) {#avläggande-av-examen-med-ett-underkänt-prov-kompensation}
 
 Studentexamen har avlagts även när vitsordet i ett prov som krävs för
 examen är underkänt, om vitsorden i de övriga prov som examinanden
@@ -462,7 +462,7 @@ gymnasiet om detta. Gymnasiet skickar meddelandet vidare till nämnden.
 Meddelandet ska vara framme hos nämnden senast den 5 maj under vårens
 och senast den 4 november under höstens examen.
 
-## Examen som påbörjats hösten 2021 eller tidigare  {#examen-som-påbörjats-hösten-2021-eller-tidigare-1 .Otsikko-5.1}
+#####1. Examen som påbörjats hösten 2021 eller tidigare  {#examen-som-påbörjats-hösten-2021-eller-tidigare-1}
 
 De underkända prestationerna i olika prov delas in i fyra nivåklasser,
 som betecknas i+, i, i- och i= . Vitsorden för de prov examinanden fått
@@ -494,7 +494,7 @@ eller tidigare.
                                                  CCMM       BBCCC      BBBBBB
   -------------------------------------------------------------------------------
 
-## Examen som påbörjats våren 2022 eller senare {#examen-som-påbörjats-våren-2022-eller-senare-1 .Otsikko-5.1}
+#####1. Examen som påbörjats våren 2022 eller senare {#examen-som-påbörjats-våren-2022-eller-senare-1}
 
 Om examinanden har avlagt ett av de fem proven som krävs för examen med
 underkänt vitsord och de övriga fyra med godkänt vitsord ges examinanden
@@ -527,7 +527,7 @@ avlagt, räknat enligt examenstillfälle. Om flera än ett prov enligt
 detta kan antecknas, besluter nämnden vilket prov som antecknas på
 betyget.
 
-## Anmälan om avläggande av de studier som krävs för studentexamen {#anmälan-om-avläggande-av-de-studier-som-krävs-för-studentexamen .Otsikko-4.1}
+####1. Anmälan om avläggande av de studier som krävs för studentexamen {#anmälan-om-avläggande-av-de-studier-som-krävs-för-studentexamen}
 
 Nämnden använder uppgifter ur Koski-informationsresursen, som
 upprätthålls av Utbildningsstyrelsen, gällande avlagd lärokurs för
@@ -550,7 +550,7 @@ Om examinanden utför dubbelexamen, d.v.s. yrkesinriktad grundexamen och
 studentexamen, ska yrkesläroinrättningen där examinanden studerar föra
 in uppgiften om avlagd examen i Koski senast den 5.5.
 
-## Betygsutfärdandedatum {#betygsutfärdandedatum .Otsikko-5.1}
+#####1. Betygsutfärdandedatum {#betygsutfärdandedatum}
 
 Då examinanden anmäls ha avlagt de studier som krävs för examen och hen
 avlagt de prov som krävs för examen får hen ett studentexamensbetyg som
@@ -621,7 +621,7 @@ examenstillfällen daterade enligt det egentliga utfärdandedatumet
 skickas till gymnasierna innan utfärdande­datumet (se 1.9 Betygen).
 Gymnasiet överlämnar betyget till examinanden.
 
-## Proven {#proven .Otsikko-3.1}
+###1. Proven {#proven}
 
 I studentexamen ordnas prov i modersmål och litteratur, det andra
 inhemska språket, främmande språk, matematik samt i naturvetenskapliga
@@ -658,7 +658,7 @@ grunderna för gymnasiets läroplan (2019). I svaren krävs inte att
 examinanderna uppvisar specifika kunskaper eller färdigheter i andra
 läroämnen.
 
-## Vitsord som ges för proven {#vitsord-som-ges-för-proven .Otsikko-4.1}
+####1. Vitsord som ges för proven {#vitsord-som-ges-för-proven}
 
 De vitsord som ges för proven är laudatur, eximia cum laude approbatur,
 magna cum laude approbatur, cum laude approbatur, lubenter approbatur,
@@ -668,7 +668,7 @@ motsvarar vitsorden är 7 (L), 6 (E), 5 (M), 4 (C), 3 (B), 2 (A) och 0
 (I) (se 1.1.7 Avläggande av examen med ett underkänt prov
 (kompensation)).
 
-## Provet i modersmål och litteratur {#provet-i-modersmål-och-litteratur .Otsikko-4.1}
+####1. Provet i modersmål och litteratur {#provet-i-modersmål-och-litteratur}
 
 Provet i modersmål och litteratur ordnas på finska, svenska och samiska
 (L 502/2019, 3 §).
@@ -713,7 +713,7 @@ språk och litteratur i ett svenskspråkigt gymnasium. Provet i svenska
 eller finska som andraspråk och litteratur avläggs samma dag som provet
 i modersmål och litteratur enligt en tidtabell som ges separat.
 
-## Provet i det andra inhemska språket {#provet-i-det-andra-inhemska-språket .Otsikko-4.1}
+####1. Provet i det andra inhemska språket {#provet-i-det-andra-inhemska-språket}
 
 Provet i det andra inhemska språket är i ett finskspråkigt gymnasium ett
 prov i svenska och i svenskspråkigt gymnasium ett prov i finska. I det
@@ -742,7 +742,7 @@ modersmål och litteratur i svenska i ett svenskspråkigt gymnasium.
 Dessutom kan examinanden avlägga provet i det andra inhemska språket
 enligt gymnasiets undervisningsspråk.
 
-## Provet i främmande språk {#provet-i-främmande-språk .Otsikko-4.1}
+####1. Provet i främmande språk {#provet-i-främmande-språk}
 
 Prov i främmande språk ordnas i engelska, spanska, italienska, franska,
 tyska, ryska, enaresamiska, skoltsamiska, nordsamiska, latin och
@@ -776,13 +776,13 @@ litteratur i samiska som avlagts i stället för provet i främmande språk
 utgör ett prov som krävs för examen anses det motsvara ett prov med
 högre svårighetsgrad (L 502/2019 10 §).
 
-## Provet i matematik {#provet-i-matematik .Otsikko-4.1}
+####1. Provet i matematik {#provet-i-matematik}
 
 En examinand får avlägga provet för lång eller kort lärokurs i
 matematik, oberoende av vilken lärokurs i matematik examinanden har läst
 i gymnasiet.
 
-## Realämnesproven {#realämnesproven .Otsikko-4.1}
+####1. Realämnesproven {#realämnesproven}
 
 Realämnesprov ordnas i religion, livsåskådningskunskap, psykologi,
 filosofi, historia, samhällslära, fysik, kemi, biologi, geografi och
@@ -795,9 +795,9 @@ provet i ortodox religion om hen uppfyller kraven på att få delta (se
 eller senare räknas dock endast ett prov i religion med bland de fem
 prov som krävs för examen.
 
-## Rätten att delta i examen {#rätten-att-delta-i-examen .Otsikko-3.1}
+###1. Rätten att delta i examen {#rätten-att-delta-i-examen}
 
-## Gymnasiestuderande {#gymnasiestuderande .Otsikko-4.1}
+####1. Gymnasiestuderande {#gymnasiestuderande}
 
 Den som genomgår lärokursen för gymnasieutbildningen får delta i ett
 prov i studentexamen efter att ha slutfört de obligatoriska studier som
@@ -827,9 +827,9 @@ fråga till exempel i sådana fall där en person har lärt sig något språk
 utomlands, eller där en person har lidit av en långvarig sjukdom som har
 hindrat hen från att läsa de kurser som krävs.
 
-## Andra än gymnasiestuderande  {#andra-än-gymnasiestuderande .Otsikko-4.1}
+####1. Andra än gymnasiestuderande  {#andra-än-gymnasiestuderande}
 
-## En person som har slutfört den finländska gymnasieutbildningens lärokurs {#en-person-som-har-slutfört-den-finländska-gymnasieutbildningens-lärokurs .Otsikko-5.1}
+#####1. En person som har slutfört den finländska gymnasieutbildningens lärokurs {#en-person-som-har-slutfört-den-finländska-gymnasieutbildningens-lärokurs}
 
 En person som har slutfört gymnasieutbildningens lärokurs får delta i
 studentexamen och i de prov som ingår i denna (L 502/2019, 5 §). En
@@ -837,21 +837,21 @@ person som utför gymnasiets lärokurs som i gymnasielagen (714/2018) 36 §
 avsedd särskild examen kan anmäla sig för att avlägga studentexamen
 först då hen slutfört hela gymnasiets lärokurs.
 
-## En person som har slutfört utländsk lärokurs för gymnasieutbildning {#en-person-som-har-slutfört-utländsk-lärokurs-för-gymnasieutbildning .Otsikko-5.1}
+#####1. En person som har slutfört utländsk lärokurs för gymnasieutbildning {#en-person-som-har-slutfört-utländsk-lärokurs-för-gymnasieutbildning}
 
 En person som har avlagt gymnasiets lärokurs vid ett utländskt gymnasium
 får delta i studentexamen och studentexamensprov, om den lärokurs
 personen genomfört kan anses motsvara den finländska gymnasiekursen (L
 502/2019, 5 §), det vill säga utbildningstiden är sammanlagt 12 år.
 
-## En person som delvis har slutfört den finländska gymnasieutbildningens lärokurs som ämnesstuderande {#en-person-som-delvis-har-slutfört-den-finländska-gymnasieutbildningens-lärokurs-som-ämnesstuderande .Otsikko-5.1}
+#####1. En person som delvis har slutfört den finländska gymnasieutbildningens lärokurs som ämnesstuderande {#en-person-som-delvis-har-slutfört-den-finländska-gymnasieutbildningens-lärokurs-som-ämnesstuderande}
 
 En person som antagits som ämnesstuderande för att avlägga studier i ett
 eller flera läroämnen som ingår i gymnasiets lärokurs kan avlägga prov
 som hör till studentexamen som enskilda prov (se 1.1.6 Avläggande av
 enskilda prov).
 
-## En person som har avlagt eller avlägger en yrkesexamen {#en-person-som-har-avlagt-eller-avlägger-en-yrkesexamen .Otsikko-5.1}
+#####1. En person som har avlagt eller avlägger en yrkesexamen {#en-person-som-har-avlagt-eller-avlägger-en-yrkesexamen}
 
 En person har rätt att delta i studentexamen och i de prov som ingår i
 examen utan kompletterande studier om hen har en yrkesinriktad
@@ -904,7 +904,7 @@ Personen som ansöker om rätt att delta i examen har rätt att söka
 ändring i rektorns beslut. (L 502/2019, 21 § 1 mom., L 672/2005, 15 § 1
 mom.)
 
-## Att bekräfta rätten att delta i prov {#att-bekräfta-rätten-att-delta-i-prov .Otsikko-4.1}
+####1. Att bekräfta rätten att delta i prov {#att-bekräfta-rätten-att-delta-i-prov}
 
 Rektorn har till uppgift att säkerställa att examinanden uppfyller de
 föreskrivna förutsättningarna för att delta i proven. Nämnden ger vid
@@ -930,7 +930,7 @@ efter den sista provdagen. Ett prov som en examinand har anmält sig till
 utan att ha rätt att delta i stryks av nämnden ur examinandens
 ämneskombination. Detta betraktas inte som ett försök att skriva provet.
 
-## Omtagning av ett godkänt prov och komplettering av examen {#omtagning-av-ett-godkänt-prov-och-komplettering-av-examen .Otsikko-4.1}
+####1. Omtagning av ett godkänt prov och komplettering av examen {#omtagning-av-ett-godkänt-prov-och-komplettering-av-examen}
 
 Ett godkänt prov får tas om utan begränsningar (L 502/2019, 16 §). Detta
 gäller alla examinander oavsett när provet har utförts. Omtagning gäller
@@ -975,7 +975,7 @@ gymnasier och på olika verksamhetsplatser enligt eget omdöme och
 informerar deltagarna om var provet ordnas och om andra praktiska
 arrangemang.
 
-## Omtagning av ett underkänt prov  {#omtagning-av-ett-underkänt-prov .Otsikko-4.1}
+####1. Omtagning av ett underkänt prov  {#omtagning-av-ett-underkänt-prov}
 
 Ett underkänt prov får tas om tre gånger medan studentexamen är på hälft
 (L 502/2019, 16 §). Detta gäller alla examinander oavsett när provet har
@@ -1009,7 +1009,7 @@ En person som avlagt studentexamen kan ta om ett underkänt prov utan
 begränsningar (L 502/2019, 16 §). Examen bör vara avlagd innan
 anmälningstidens utgång.
 
-## Anmälan {#anmälan .Otsikko-3.1}
+###1. Anmälan {#anmälan}
 
 Examinanden skall för varje enskilt examenstillfälle och prov anmäla sig
 till det gymnasium där hen avser avlägga provet. En examinand kan vid
@@ -1045,7 +1045,7 @@ Den som vill ha examensbetyg ska vara anmäld som examinand som avlägger
 examen. Den som avlägger enskilda prov kan inte få ett
 studentexamensbetyg.
 
-## Bindande anmälan  {#bindande-anmälan .Otsikko-4.1}
+####1. Bindande anmälan  {#bindande-anmälan}
 
 Anmälan till examen är bindande. En examinand som har anmält sig till
 examen eller till enskilda prov är skyldig att betala examensavgifterna
@@ -1075,7 +1075,7 @@ lägga till prov av annan svårighetsgrad kan det vara möjligt att ändra
 svårighetsgrad på ett prov enligt något av de skäl som anges i kapitel
 1.3.5 Omtagning av ett underkänt prov
 
-## Återtagande och annullering av en anmälan  {#återtagande-och-annullering-av-en-anmälan .Otsikko-4.1}
+####1. Återtagande och annullering av en anmälan  {#återtagande-och-annullering-av-en-anmälan}
 
 En anmälan som godkänts av rektorn kan återtas skriftligen senast den
 dag nämnden bestämt att tidsfristen för anmälan löper ut. Examinanden
@@ -1108,7 +1108,7 @@ eller återbetalas den provspecifika avgiften på ansökan som gjorts inom
 den tid som examensnämnden bestämmer (L 672/2005, 5 §). (Jfr 2.2.2
 Återbetalning av provspecifika avgifter.)
 
-## Anmälan efter anmälningstidens utgång  {#anmälan-efter-anmälningstidens-utgång .Otsikko-4.1}
+####1. Anmälan efter anmälningstidens utgång  {#anmälan-efter-anmälningstidens-utgång}
 
 Studentexamensnämnden kan på grund av examinandens sjukdom eller något
 annat jämförbart särskilt vägande skäl godkänna en anmälan som gjorts
@@ -1130,7 +1130,7 @@ examinandens plan över spridning av proven eller ett läkarutlåtande.
 Om nämnden godkänner examinandens ansökan, ska examinanden ge in en
 skriftlig anmälan till gymnasiet (Jfr 1.4 Anmälan).
 
-## Ändring i anmälningsuppgifterna  {#ändring-i-anmälningsuppgifterna .Otsikko-4.1}
+####1. Ändring i anmälningsuppgifterna  {#ändring-i-anmälningsuppgifterna}
 
 Då det gäller en examen som påbörjats hösten 2021 eller tidigare kan
 Studentexamens­nämnden av synnerligen vägande skäl godkänna en ändring i
@@ -1149,7 +1149,7 @@ av den samt ett utlåtande i vilket det vägande skäl som åberopas
 beskrivs. Det rekommenderas att planen över spridning av proven också
 bifogas till ansökan.
 
-## Examinander som byter gymnasium {#examinander-som-byter-gymnasium .Otsikko-4.1}
+####1. Examinander som byter gymnasium {#examinander-som-byter-gymnasium}
 
 Om examinanden byter till ett annat gymnasium efter att
 anmälningsuppgifterna förts in kommer det gymnasium examinanden byter
@@ -1176,9 +1176,9 @@ fall ansvara gymnasiet som fört in anmälningsuppgifterna till nämnden
 för den preliminära bedömningen och övriga ärenden som gäller
 anordnandet av examinandens examen. (Se 2.1.4 Gemensamma prov)
 
-## Provtillbehör och provprestationer {#provtillbehör-och-provprestationer .Otsikko-3.1}
+###1. Provtillbehör och provprestationer {#provtillbehör-och-provprestationer}
 
-## Examinandens dator och tilläggsutrustning {#examinandens-dator-och-tilläggsutrustning .Otsikko-4.1}
+####1. Examinandens dator och tilläggsutrustning {#examinandens-dator-och-tilläggsutrustning}
 
 Till ett studentexamensprov är examinanden skyldig att ha med sig en
 dator som uppfyller kraven i anvisningen om examinandens dator (bilaga
@@ -1204,7 +1204,7 @@ kräva att tilläggsutrustningen kontrolleras på förhand. Rektor kan vid
 behov beordra en examinand att använda gymnasiets datorutrustning i
 stället för sin egen.
 
-## Övriga provtillbehör och hjälpmedel {#övriga-provtillbehör-och-hjälpmedel .Otsikko-4.1}
+####1. Övriga provtillbehör och hjälpmedel {#övriga-provtillbehör-och-hjälpmedel}
 
 Examinanden får använda konceptpapper (vikt helark A3 eller halvark A4)
 för att göra utkast till provsvar. Gymnasiet tillhandahåller
@@ -1231,7 +1231,7 @@ ansökan eller beslut) och nämndens provspecifika föreskrifter. Nämnden
 kan separat för varje examenstillfälle ge noggrannare anvisningar om
 utrustning och tillbehör som är tillåtna eller förbjudna.
 
-## Provprestationer och utkast till prestationer  {#provprestationer-och-utkast-till-prestationer .Otsikko-4.1}
+####1. Provprestationer och utkast till prestationer  {#provprestationer-och-utkast-till-prestationer}
 
 Anvisningarna i de provspecifika föreskrifterna samt anvisningarna i
 början av provet och i anslutning till provuppgifterna ger närmare
@@ -1249,7 +1249,7 @@ Alla papper som examinanden har använt under provet tolkas som utkast.
 Utkast beaktas ~~normalt~~ inte när prestationen bedöms. (Se 2.5
 Dokument som ska arkiveras i gymnasiet)
 
-## Svikligt förfarande och brott mot examensordningen {#svikligt-förfarande-och-brott-mot-examensordningen .Otsikko-3.1}
+###1. Svikligt förfarande och brott mot examensordningen {#svikligt-förfarande-och-brott-mot-examensordningen}
 
 Examinanden ska före studentexamen ha klart för sig vad det blir för
 påföljder av svikligt förfarande, försök till fusk, brott mot ordningen
@@ -1374,9 +1374,9 @@ Att lämna ett prov före det klockslag nämnden bestämt möjliggör
 vidarebefordrande av information som är underställd provhemligheten och
 beaktas därmed som försök till svikligt förfarande.
 
-## Bedömning av provprestationer {#bedömning-av-provprestationer .Otsikko-3.1}
+###1. Bedömning av provprestationer {#bedömning-av-provprestationer}
 
-## Att utebli från provet eller att lämna in en tom provprestation {#att-utebli-från-provet-eller-att-lämna-in-en-tom-provprestation .Otsikko-4.1}
+####1. Att utebli från provet eller att lämna in en tom provprestation {#att-utebli-från-provet-eller-att-lämna-in-en-tom-provprestation}
 
 Om den som har anmält sig till ett prov uteblir från provet eller inte
 lämnar in en provprestation för bedömning, betraktas provet som
@@ -1391,7 +1391,7 @@ antingen provet i läskompetens eller provet i skrivkompetens, eller inte
 lämnar in en provprestation till bedömning i båda delarna av provet i
 modersmål och litteratur.
 
-## Preliminär bedömning {#preliminär-bedömning .Otsikko-4.1}
+####1. Preliminär bedömning {#preliminär-bedömning}
 
 Provprestationerna granskas och bedöms preliminärt av en lärare i ämnet
 ifråga som utses av anordnaren av gymnasieutbildning (L 502/2019, 18 §).
@@ -1456,7 +1456,7 @@ slutliga bedömningen. När resultaten av den preliminära bedömningen
 delges får provprestationerna inte visas för examinanderna (L 621/1999,
 11 § punkt 3).
 
-## Slutgiltig bedömning och publicering av resultaten {#slutgiltig-bedömning-och-publicering-av-resultaten .Otsikko-4.1}
+####1. Slutgiltig bedömning och publicering av resultaten {#slutgiltig-bedömning-och-publicering-av-resultaten}
 
 Provprestationerna granskas och bedöms slutligt av Studentexamensnämnden
 (L 502/2019, 18 §). Nämndens censorer bedömer alla prestationer med
@@ -1490,7 +1490,7 @@ Omprövning av ett beslut av Studentexamensnämnden genom vilket en
 provprestation har bedömts får begäras på det sätt som anges i
 förvaltningslagen (L 502/2019, 22 §, se 1.7.7 Begäran om omprövning).
 
-## Hur skäl som försämrar en examinands prestation i ett prov beaktas i bedömningen {#hur-skäl-som-försämrar-en-examinands-prestation-i-ett-prov-beaktas-i-bedömningen .Otsikko-4.1}
+####1. Hur skäl som försämrar en examinands prestation i ett prov beaktas i bedömningen {#hur-skäl-som-försämrar-en-examinands-prestation-i-ett-prov-beaktas-i-bedömningen}
 
 Om examinandens provprestation har försämrats på grund av sjukdom eller
 funktionsnedsättning el-ler någon annan därmed jämförbar särskild
@@ -1509,7 +1509,7 @@ en examinands prestation i ett prov beaktas i studentexamen (se även
 2.1.3 Specialarrangemang som beviljas på grund av skäl som försämrar en
 examinands prestation i ett prov).
 
-## Beaktande av störning som skett under provtillfället i bedömningen {#beaktande-av-störning-som-skett-under-provtillfället-i-bedömningen .Otsikko-4.1}
+####1. Beaktande av störning som skett under provtillfället i bedömningen {#beaktande-av-störning-som-skett-under-provtillfället-i-bedömningen}
 
 Störningar och andra problemsituationer löses i första hand under
 provtillfällets gång. Eftersom beaktandet av störning i bedömningen
@@ -1557,7 +1557,7 @@ I exceptionella fall, där störningen till stor del har förhindrat
 utförandet av en del av provet, kan nämnden även tilldela
 gottgörelsepoäng på annat sätt.
 
-## Begäran om granskning {#begäran-om-granskning .Otsikko-4.1}
+####1. Begäran om granskning {#begäran-om-granskning}
 
 Om ett examensresultat som nämnden meddelat verkar felaktigt, kan rektor
 eller ämnesläraren till nämnden framföra en begäran om granskning,
@@ -1566,7 +1566,7 @@ omedelbart när ett felaktigt resultat har upptäckts. Tekniska fel och
 liknande felaktigheter som inte förutsätter omprövning av bedömning
 enligt avsnitt 1.7.7 rättar nämnden omedelbart.
 
-## Begäran om omprövning  {#begäran-om-omprövning .Otsikko-4.1}
+####1. Begäran om omprövning  {#begäran-om-omprövning}
 
 Omprövning av ett beslut av Studentexamensnämnden genom vilket en
 provprestation har bedömts får begäras av nämnden (L 502/2019, 22 §).
@@ -1633,7 +1633,7 @@ omprövning, utfärdas utan avgift ett nytt betyg i stället för det
 studentexamensbetyg eller betyg. Examinanden svarar själv för att det
 gamla betyget förstörs på ett vederbörligt sätt.
 
-## Delgivning av information gällande bedömning {#delgivning-av-information-gällande-bedömning .Otsikko-4.1}
+####1. Delgivning av information gällande bedömning {#delgivning-av-information-gällande-bedömning}
 
 Provprestationerna är sekretessbelagda myndighetshandlingar (Lag om
 offentlighet i myndigheternas verksamhet 621/1999, 24 § 1 mom. punkt
@@ -1677,7 +1677,7 @@ och poängantal som hör till den digitala studentexamen förvaras
 varaktigt i elektronisk form som en del av studentexamensregistret
 (Arkivlagen 831/1994, 8 §, Arkivverkets beslut 11.1.2016).
 
-## Utlämning av uppgifter om namn och prestationer {#utlämning-av-uppgifter-om-namn-och-prestationer .Otsikko-3.1}
+###1. Utlämning av uppgifter om namn och prestationer {#utlämning-av-uppgifter-om-namn-och-prestationer}
 
 Både nämnden och gymnasiet har rätt att ge ut studenternas namn för
 publicering efter det att nämnden har skickat examensresultaten till
@@ -1717,9 +1717,9 @@ publicerade forskningsrapporter ombeds skickas in för arkivering i
 nämndens arkiv. Alternativt kan en elektronisk version av rapporten
 eller en länk till den skickas för publicering på nämndens webbplats.
 
-## Betygen {#betygen .Otsikko-3.1}
+###1. Betygen {#betygen}
 
-## Studentexamensbetyget {#studentexamensbetyget .Otsikko-4.1}
+####1. Studentexamensbetyget {#studentexamensbetyget}
 
 Studentexamensbetyg utfärdas för en examinand som har avlagt
 studentexamen på det sätt som föreskrivs i 12 § i lagen om
@@ -1754,7 +1754,7 @@ där examinanden har utfört proven i examen.
 
 Gymnasiet överlämnar betygen till examinanderna.
 
-## Betyg beviljade av Studentexamensnämnden {#betyg-beviljade-av-studentexamensnämnden .Otsikko-4.1}
+####1. Betyg beviljade av Studentexamensnämnden {#betyg-beviljade-av-studentexamensnämnden}
 
 En examinand som avlägger ett enskilt prov och en student som efter att
 ha fått sitt studentexamensbetyg har tagit om prov eller kompletterat
@@ -1766,7 +1766,7 @@ vilken uppgift om att de studier som förutsätts för examen är utförda
 saknas. Betygen skickas till gymnasiet, som överlämnar betygen till
 examinanderna. (L 502/2019, 19 § 2 mom.)
 
-## Intyg över högskolebehörighet {#intyg-över-högskolebehörighet .Otsikko-4.1}
+####1. Intyg över högskolebehörighet {#intyg-över-högskolebehörighet}
 
 Den som slutfört examen kan beställa ett intyg över högskolebehörighet.
 Intyget kan behövas då man ansöker om studieplats vid en högskola
@@ -1775,7 +1775,7 @@ och är behörig att ansöka till högskola. Intyget innehåller inte
 vitsord. Ett intyg över högskolebehörighet kan fås på finska, svenska,
 engelska, tyska och franska. Intyget är avgiftsbelagt.
 
-## Betygsavskrifter {#betygsavskrifter .Otsikko-4.1}
+####1. Betygsavskrifter {#betygsavskrifter}
 
 Med en betygsavskrift som beställs av Studentexamensnämnden menas ett
 betyg som ersätter ett borttappat eller förstört studentexamensbetyg
@@ -1795,7 +1795,7 @@ avskrifter av studentexamensbetyg eller något annat betyg utfärdat av
 Studentexamensnämnden. Kopior av dessa betyg som gymnasiet eventuellt
 utfärdar är inte vidimerade i juridisk mening.
 
-## Översättningar av betyg {#översättningar-av-betyg .Otsikko-4.1}
+####1. Översättningar av betyg {#översättningar-av-betyg}
 
 Det går att beställa en översättning till finska eller engelska av
 studentexamensbetyget eller av något annat betyg utfärdat av
@@ -1804,7 +1804,7 @@ finska och engelska av betyg som är givna vid vilket examenstillfälle
 som helst. Översättningen är avgiftsbelagd och expedieras för det mesta
 inom cirka två veckor. Beställning görs via nämndens nätsidor.
 
-##  Överklagande av beslut av Studentexamensnämnden {#överklagande-av-beslut-av-studentexamensnämnden .Otsikko-3.1}
+###1.  Överklagande av beslut av Studentexamensnämnden {#överklagande-av-beslut-av-studentexamensnämnden}
 
 Omprövning av ett beslut av Studentexamensnämnden genom vilket en
 provprestation har bedömts får begäras av nämnden (se 1.7.7.
@@ -1816,7 +1816,7 @@ hos Helsingfors förvaltningsdomstol så som föreskrivs i lagen om
 rättegång i förvaltningsärenden (808/2019), om inte något annat
 föreskrivs någon annanstans i lag (L 502/2019, 23 §).
 
-##  Vissa examina som till nivån motsvarar studentexamen {#vissa-examina-som-till-nivån-motsvarar-studentexamen .Otsikko-3.1}
+###1.  Vissa examina som till nivån motsvarar studentexamen {#vissa-examina-som-till-nivån-motsvarar-studentexamen}
 
 International Baccalaureate-examen, Reifeprüfung-examen eller Deutsche
 Internationale Abitur-examen som har avlagts som avslutning på sådan
@@ -1831,20 +1831,20 @@ eller enskilda prov. De som har avlagt någon av dessa examina kan ansöka
 om att få anmäla sig till höstens studentexamen efter att de fått veta
 resultaten för examen (se 1.4.3 Anmälan efter anmälningstidens utgång).
 
-## Verkställandet av studentexamen i gymnasiet
+##1. Verkställandet av studentexamen i gymnasiet
 
 Ansvarig för anordnandet av examen och proven i läroanstalten är rektor,
 som enligt 57 § 1 mom. i gymnasielagen (714/2018) svarar för gymnasiets
 verksamhet (L 502/2019, 4 §).
 
-## Uppgifter som delges Studentexamensnämnden {#uppgifter-som-delges-studentexamensnämnden .Otsikko-3.1}
+###1. Uppgifter som delges Studentexamensnämnden {#uppgifter-som-delges-studentexamensnämnden}
 
 Utbildningsanordnaren ska på begäran ge Studentexamensnämnden de
 uppgifter som behövs för att anordna och verkställa studentexamen (L
 502/2019, 24 §). Uppgifterna sparas i studentexamensregistret (L
 884/2017, kapitel 3).
 
-## Uppgifter vid anmälan av examinanderna {#uppgifter-vid-anmälan-av-examinanderna .Otsikko-4.1}
+####1. Uppgifter vid anmälan av examinanderna {#uppgifter-vid-anmälan-av-examinanderna}
 
 För examen ska gymnasiet meddela nämnden examinandernas personuppgifter,
 uppgifter om examen och vilka prov examinanden avser att skriva vid
@@ -1879,7 +1879,7 @@ insändningen av anmälningsuppgifterna på sin webbplats.
 Anmälningsuppgifterna ska vara inkomna till nämnden senast den 7
 december för vårens del och senast den 11 juni för höstens del.
 
-## Beställning av USB-minnen och prov för specialgrupper  {#beställning-av-usb-minnen-och-prov-för-specialgrupper .Otsikko-4.1}
+####1. Beställning av USB-minnen och prov för specialgrupper  {#beställning-av-usb-minnen-och-prov-för-specialgrupper}
 
 Gymnasiet beställer behövligt antal USB-minnen för examinanders datorer,
 provlokalens servrar och övervakarens datorer genom nämndens
@@ -1895,7 +1895,7 @@ Nämnden skickar USB-minnen utgående från det antal gymnasiet angett i
 beställningen. Den exakta tidtabellen för utskickningen meddelas till
 gymnasierna före examen.
 
-##  Specialarrangemang som beviljas på grund av skäl som försämrar en examinands prestation i ett prov {#specialarrangemang-som-beviljas-på-grund-av-skäl-som-försämrar-en-examinands-prestation-i-ett-prov .Otsikko-4.1}
+####1.  Specialarrangemang som beviljas på grund av skäl som försämrar en examinands prestation i ett prov {#specialarrangemang-som-beviljas-på-grund-av-skäl-som-försämrar-en-examinands-prestation-i-ett-prov}
 
 En examinand som på grund av sjukdom, funktionsnedsättning, synnerligen
 svår livssituation, särskilda läs- och skrivsvårigheter eller ett
@@ -1910,7 +1910,7 @@ examinands prestation i ett prov beaktas i studentexamen (se även 1.7.4
 Hur skäl som försämrar en examinands prestation i ett prov beaktas i
 bedömningen).
 
-##  Gemensamma prov {#gemensamma-prov .Otsikko-4.1}
+####1.  Gemensamma prov {#gemensamma-prov}
 
 Det är möjligt för flera gymnasier att arrangera gemensamma prov.
 Gymnasierna kan också komma överens om att enskilda examinander utför
@@ -1929,7 +1929,7 @@ examinanden deltog i ordnades.
 Nämnden sänder examensresultaten och betygen till respektive gymnasium
 enligt anmälningsuppgifterna.
 
-## Examensavgifterna {#examensavgifterna .Otsikko-3.1}
+###1. Examensavgifterna {#examensavgifterna}
 
 Undervisnings- och kulturministeriet fastställer examensavgifterna och
 andra offentligrättsliga prestationer i samband med examen (502/2019, 20
@@ -1952,7 +1952,7 @@ höstens examen senast den 5 september. För att ett betyg skall utfärdas
 krävs att de föreskrivna avgifterna för deltagande i examenstillfällen
 och prov har betalats (L 502/2019, 19 §).
 
-## Avgiftsfritt avläggande av prov {#avgiftsfritt-avläggande-av-prov .Otsikko-4.1}
+####1. Avgiftsfritt avläggande av prov {#avgiftsfritt-avläggande-av-prov}
 
 Examinander som är berättigade till avgiftsfri undervisning enligt
 läropliktslagen kan även avlägga prov i studentexamen avgiftsfritt.
@@ -2024,7 +2024,7 @@ erbjuda avgiftsfri utbildning i större utsträckning än vad som avses i
 lagstiftningen inverkar inte på avgifterna för avläggandet av proven i
 studentexamen.
 
-## Återbetalning av provspecifika avgifter {#återbetalning-av-provspecifika-avgifter .Otsikko-4.1}
+####1. Återbetalning av provspecifika avgifter {#återbetalning-av-provspecifika-avgifter}
 
 Om det innan proven startar har konstaterats att en examinand som anmält
 sig till examen inte uppfyller kraven på deltagande, eller om anmälan
@@ -2035,9 +2035,9 @@ provspecifika examensavgiften på särskild anhållan till examinanden.
 Anhållan om återbetalning av avgifter ska ges in till nämnden senast
 före utgången av det år när den examen som saken gäller ägt rum.
 
-## Hur proven arrangeras {#hur-proven-arrangeras .Otsikko-3.1}
+###1. Hur proven arrangeras {#hur-proven-arrangeras}
 
-## Mottagande av USB-minnena, dekrypteringskoderna och nyckeltalslistorna {#mottagande-av-usb-minnena-dekrypteringskoderna-och-nyckeltalslistorna .Otsikko-4.1}
+####1. Mottagande av USB-minnena, dekrypteringskoderna och nyckeltalslistorna {#mottagande-av-usb-minnena-dekrypteringskoderna-och-nyckeltalslistorna}
 
 Postförsändelsen med USB-minnen öppnas av rektor i närvaro av någon av
 lärarna. Försändelsen ska öppnas så fort den har anlänt, och detta
@@ -2061,7 +2061,7 @@ innehålla några fler USB-minnen än vad som beställts.
 Gymnasiet sänder inte öppningsprotokollen till nämnden utan förvarar dem
 i sitt arkiv i ett år för eventuella senare behov.
 
-## Förvaringen av provuppgifterna, USB-minnena, dekrypteringskoderna och nyckeltalslistorna {#förvaringen-av-provuppgifterna-usb-minnena-dekrypteringskoderna-och-nyckeltalslistorna .Otsikko-4.1}
+####1. Förvaringen av provuppgifterna, USB-minnena, dekrypteringskoderna och nyckeltalslistorna {#förvaringen-av-provuppgifterna-usb-minnena-dekrypteringskoderna-och-nyckeltalslistorna}
 
 Rektorn laddar ned provuppgifterna före provdagen från nämndens
 webbtjänst och sparar dem på ett USB-minne.
@@ -2078,9 +2078,9 @@ bankvalv eller i postens valv.
 Både examinandernas USB-minnen och serverminnena ska förvaras på ett
 säkert ställe både före den första provdagen och mellan provdagarna.
 
-##  Provlokalerna {#provlokalerna .Otsikko-4.1}
+####1.  Provlokalerna {#provlokalerna}
 
-## Provlokalen och dess möblering {#provlokalen-och-dess-möblering .Otsikko-5.1}
+#####1. Provlokalen och dess möblering {#provlokalen-och-dess-möblering}
 
 Till provlokal väljs ett tillräckligt stort rum som är fritt från
 störande moment. Möbleringen av provlokalen och placeringen av
@@ -2101,7 +2101,7 @@ Om gymnasiet förvarar examinandernas granskade hjälpmedel, datorer och
 tilläggs­utrustning i sina utrymmen, måste man vara noga med att
 lokaliteterna är låsta och också i övrigt säkra.
 
-## Sittordningen {#sittordningen .Otsikko-5.1}
+#####1. Sittordningen {#sittordningen}
 
 Examinanderna ska vara placerade så att de inte kan se varandras
 provsvar. De lärare som övervakar provet ska ha en placering som gör att
@@ -2116,7 +2116,7 @@ Vid placeringen ska eventuella beslut om specialarrangemang beaktas.
 Likaså kan övriga speciella behov som beror på sjukdom,
 funktionsnedsättning eller annan liknande orsak beaktas vid placeringen.
 
-## Reservsittplatser {#reservsittplatser .Otsikko-5.1}
+#####1. Reservsittplatser {#reservsittplatser}
 
 För eventuella felsituationer under proven ska man i provlokalen
 reservera reserv­sittplatser vars andel ska vara 5 procent av antalet
@@ -2129,19 +2129,19 @@ under proven. Minimiantalet gäller inte sittplatser i separata
 provlokaler. För dem ska gymnasiet ha en plan för
 datakommunikationsproblem.
 
-## WC-utrymmen {#wc-utrymmen .Otsikko-5.1}
+#####1. WC-utrymmen {#wc-utrymmen}
 
 Examinanderna ska ha möjlighet att gå på wc under provet, följda av en
 övervakande lärare. Det måste finnas fler än en toalett. Utomstående får
 under pågående examen inte ha tillträde till de toaletter som används av
 examinanderna. Examinanderna ska också ha möjlighet att tvätta händerna.
 
-## Provtillfället {#provtillfället .Otsikko-4.1}
+####1. Provtillfället {#provtillfället}
 
 Noggrannare föreskrifter och anvisningar gällande provtillfället och
 övervakarnas uppgifter finns i bilaga 4 (Anvisningar för övervakare).
 
-## Förberedande av provlokalen {#förberedande-av-provlokalen .Otsikko-5.1}
+#####1. Förberedande av provlokalen {#förberedande-av-provlokalen}
 
 Rektorn ansvarar för att USB-minnet med provuppgifterna, kuvertet med
 dekrypteringskodens basdel och nyckeltalslistorna och
@@ -2162,7 +2162,7 @@ I provlokalen eller i dess närhet ska extra pennor och radergummin,
 konceptpapper, pappersnäsdukar och förstahjälpsutrustning vara
 framsatta, eventuellt också mediciner för de vanligaste sjukdomsfallen.
 
-## Uppladdning av provuppgifterna samt nyckeltalslistorna {#uppladdning-av-provuppgifterna-samt-nyckeltalslistorna .Otsikko-5.1}
+#####1. Uppladdning av provuppgifterna samt nyckeltalslistorna {#uppladdning-av-provuppgifterna-samt-nyckeltalslistorna}
 
 Då provtillfället inleds konstaterar rektorn, två övervakare och en
 examinand som väljs av rektor att kuvertet med dekrypteringskodens
@@ -2177,14 +2177,14 @@ server.
 Information om provuppgifterna eller innehållet i proven får inte
 spridas utanför provlokalen före kl. 12.
 
-## Personer som närvarar i provlokalen {#personer-som-närvarar-i-provlokalen .Otsikko-5.1}
+#####1. Personer som närvarar i provlokalen {#personer-som-närvarar-i-provlokalen}
 
 I provlokalen är det inte tillåtet att släppa in andra personer än de
 examinander som är anmälda till provet samt rektor och övervakare.
 Representanter för massmedierna till exempel har inte tillträde till
 provlokalen, varken innan provet börjar eller under provets gång.
 
-## Användning av mobiltelefoner och annan elektronisk utrustning i provlokalen  {#användning-av-mobiltelefoner-och-annan-elektronisk-utrustning-i-provlokalen .Otsikko-5.1}
+#####1. Användning av mobiltelefoner och annan elektronisk utrustning i provlokalen  {#användning-av-mobiltelefoner-och-annan-elektronisk-utrustning-i-provlokalen}
 
 Det är absolut förbjudet för examinanderna att ta med sig mobiltelefoner
 och andra elektroniska apparater (till exempel smartklockor) in i
@@ -2196,7 +2196,7 @@ provlokalen endast använda telefonen i tvingande situationer som hänger
 ihop med anordnandet av examen. (Jfr 1.6 Svikligt förfarande och brott
 mot examensordningen.)
 
-## Startande av examinandernas datorer och identifiering av examinanderna {#startande-av-examinandernas-datorer-och-identifiering-av-examinanderna .Otsikko-5.1}
+#####1. Startande av examinandernas datorer och identifiering av examinanderna {#startande-av-examinandernas-datorer-och-identifiering-av-examinanderna}
 
 Examinanderna startar sin dator från det av nämnden levererade
 USB-minnet för examinanddatorn. Det är endast tillåtet att avvika från
@@ -2209,7 +2209,7 @@ kontrollerar namnet och personbeteckningen de matat in i provsystemet.
 Övervakaren kan med samma kontrollera, att examinanden valt det prov och
 språkversion som hen anmält sig till.
 
-## Avbrott under provet och meddelanden {#avbrott-under-provet-och-meddelanden .Otsikko-5.1}
+#####1. Avbrott under provet och meddelanden {#avbrott-under-provet-och-meddelanden}
 
 Före provet inletts och då utförandet av provet är avbrutet är det inte
 tillåtet för examinander att göra anteckningar eller andra markeringar
@@ -2218,7 +2218,7 @@ på papper eller på sina datorer.
 Under provet är det inte tillåtet att meddela examinanderna något som
 gäller själva provuppgifterna, om inte nämnden angett att så ska ske.
 
-## Toalettbesök under provet {#toalettbesök-under-provet .Otsikko-5.1}
+#####1. Toalettbesök under provet {#toalettbesök-under-provet}
 
 Under toalettbesök ska examinanden genom att använda skärmskydd,
 skärmsläckare eller något annat se till att hans eller hennes skärm inte
@@ -2228,7 +2228,7 @@ toalett, så att det inte på förhand går att räkna ut vilken toalett som
 på toalett inte ger tillfälle till utbyte av information examinanderna
 emellan.
 
-## Examinander som avlägger två språkprov på samma dag {#examinander-som-avlägger-två-språkprov-på-samma-dag .Otsikko-5.1}
+#####1. Examinander som avlägger två språkprov på samma dag {#examinander-som-avlägger-två-språkprov-på-samma-dag}
 
 En examinand som en och samma dag skriver två språkprov baserade på kort
 lärokurs ska skriva proven efter varandra. Examinanden får vid
@@ -2238,7 +2238,7 @@ provet ska hen kalla på övervakaren. Övervakaren identifierar
 examinanden på nytt som ovan beskrivits. Examinanden kan inte gå
 tillbaka till det första provet efter att det andra provet inletts.
 
-## Kaffeservering under provet {#kaffeservering-under-provet .Otsikko-5.1}
+#####1. Kaffeservering under provet {#kaffeservering-under-provet}
 
 Under provet kan kaffe och te serveras beroende på vad man avtalat med
 examinanderna om på förhand. Utomstående personer som hjälper till med
@@ -2247,7 +2247,7 @@ normala övervakningen skärpas.
 
 Rökpauser o.d. är inte tillåtna under pågående prov.
 
-## Avslutande av provet {#avslutande-av-provet .Otsikko-5.1}
+#####1. Avslutande av provet {#avslutande-av-provet}
 
 När examinanden slutfört provet lösgör hen USB-minnet från datorn och
 lämnar det till övervakaren. Övervakaren ser till att alla USB-minnen
@@ -2257,7 +2257,7 @@ försedda med examinandens namn. När provtiden är till ända och
 övervakaren meddelat det till examinanderna avslutar övervakaren provet
 på provlokalens server.
 
-## Avslutande av provtillfället och överföring av provprestationerna till examenstjänsten {#avslutande-av-provtillfället-och-överföring-av-provprestationerna-till-examenstjänsten .Otsikko-5.1}
+#####1. Avslutande av provtillfället och överföring av provprestationerna till examenstjänsten {#avslutande-av-provtillfället-och-överföring-av-provprestationerna-till-examenstjänsten}
 
 När alla examinander har lämnat provlokalen laddar övervakaren ned
 provprestationerna från provlokalens server till ett USB-minne och
@@ -2282,7 +2282,7 @@ provprestationerna till examenstjänsten bör vara lärare vid gymnasiet.
 Hen bör också ha rättigheter att delta i den preliminära bedömningen av
 proven vid ifrågavarande examenstillfälle.
 
-## Hantering av USB-minnen efter provtillfället {#hantering-av-usb-minnen-efter-provtillfället .Otsikko-5.1}
+#####1. Hantering av USB-minnen efter provtillfället {#hantering-av-usb-minnen-efter-provtillfället}
 
 De USB-minnen som använts för provlokalens server och reservserver får
 användas på nytt under senare prov vid samma examenstillfälle. Ett
@@ -2294,12 +2294,12 @@ examenstillfälle. USB-minnena som använts för att starta servrarna,
 övervakarnas datorer och examinandernas datorer returneras till SEN
 efter examenstillfället.
 
-##  Övervakarna {#övervakarna .Otsikko-4.1}
+####1.  Övervakarna {#övervakarna}
 
 Noggrannare föreskrifter och anvisningar gällande provtillfället och
 övervakarnas uppgifter finns i bilaga 4 (Anvisningar för övervakare).
 
-## Övervakarna och deras uppgifter {#övervakarna-och-deras-uppgifter .Otsikko-5.1}
+#####1. Övervakarna och deras uppgifter {#övervakarna-och-deras-uppgifter}
 
 Proven ska övervakas av gymnasiets lärare. Rektor kan vid behov och
 efter egen bedömning dessutom anlita tidigare lärare i gymnasiet,
@@ -2315,7 +2315,7 @@ rektor och övervakarna att komma in i provlokalen, utöver examinanderna.
 Om gymnasiet vill att det finns tekniska stödpersoner på plats under
 provtillfället gäller samma bestämmelser för dem som för övervakarna.
 
-## Antalet övervakare {#antalet-övervakare .Otsikko-5.1}
+#####1. Antalet övervakare {#antalet-övervakare}
 
 Rektorn ska se till att det vid varje provtillfälle finns tillräckligt
 många övervakare. Trygghet bör kunna garanteras i alla situationer som
@@ -2341,7 +2341,7 @@ Om det i provlokalen finns bara en övervakare, måste rektor se till att
 det under hela provet finns en direkt och fungerande förbindelse mellan
 övervakaren i provlokalen och någon annan lärare, t.ex. per telefon.
 
-## Användning av kameror vid övervakningen av provtillfället {#användning-av-kameror-vid-övervakningen-av-provtillfället .Otsikko-5.1}
+#####1. Användning av kameror vid övervakningen av provtillfället {#användning-av-kameror-vid-övervakningen-av-provtillfället}
 
 Nämnden fastställer inga begränsningar för användning av inspelande
 kameror vid övervakningen av proven. Beslut om användning av kameror vid
@@ -2363,7 +2363,7 @@ fall inte nödvändigt.
 De personer som utnämnts till övervakare får se på bilden från kamerorna
 även under provets gång.
 
-## Användning av kameror vid övervakningen av enskilt rum {#användning-av-kameror-vid-övervakningen-av-enskilt-rum .Otsikko-5.1}
+#####1. Användning av kameror vid övervakningen av enskilt rum {#användning-av-kameror-vid-övervakningen-av-enskilt-rum}
 
 Det är också möjligt att med kameror övervaka en examinand som arbetar i
 enskilt rum samt den assistent hen eventuell tilldelats. I detta fall
@@ -2376,7 +2376,7 @@ kan uppfattas genom kameraövervakningen eller genom att med hjälp av en
 ljudsignal kontakta en övervakare som samtidigt övervakar flera
 utrymmen.
 
-## Inspelningar från kameror som används vid övervakningen {#inspelningar-från-kameror-som-används-vid-övervakningen .Otsikko-5.1}
+#####1. Inspelningar från kameror som används vid övervakningen {#inspelningar-från-kameror-som-används-vid-övervakningen}
 
 Inspelningarna får endast ses av rektor eller personer som utnämnts till
 övervakare av proven. Inspelningarna granskas slumpmässigt och vid
@@ -2403,7 +2403,7 @@ föreskrifterna som ges i detta avsnitt.
 Användningen av kameror vid övervakning av provlokalen antecknas i
 provprotokollet.
 
-## Övervakarnas uppgifter under provet {#övervakarnas-uppgifter-under-provet .Otsikko-5.1}
+#####1. Övervakarnas uppgifter under provet {#övervakarnas-uppgifter-under-provet}
 
 Vid övervakningen bör man särskilt fokusera på att upptäcka interaktion
 mellan examinander, användning av olovliga hjälpmedel och användning av
@@ -2421,7 +2421,7 @@ dem, om inte någon examinand genom att räcka upp handen själv har visat
 att hen har något att fråga eller om inte nämnden har instruerat
 övervakarna att tilltala examinanderna.
 
-## Agerande i undantagssituationer {#agerande-i-undantagssituationer .Otsikko-5.1}
+#####1. Agerande i undantagssituationer {#agerande-i-undantagssituationer}
 
 Övervakarnas uppgift är att vid undantagssituationer ingripa på det sätt
 som beskrivs i anvisningarna för övervakare (bilaga 4). Vid behov
@@ -2432,7 +2432,7 @@ Gymnasiet gör vid behov efter provet en anmälan om teknisk störning
 under prov om störningen inverkat på en eller flera examinanders
 provprestation.
 
-## Teckenstorleken som examinanden använder {#teckenstorleken-som-examinanden-använder .Otsikko-5.1}
+#####1. Teckenstorleken som examinanden använder {#teckenstorleken-som-examinanden-använder}
 
 För att förhindra fusk kan övervakaren beordra en examinand att minska
 teckenstorleken eller storleken på figurer och andra markeringar i
@@ -2444,7 +2444,7 @@ storleken på markeringarna eller om examinanden efter övervakarens
 uppmaning på nytt ökar teckenstorleken eller storleken på markeringar
 under samma prov kan situationen betraktas som försök till fusk.
 
-## Instruerande av examinanderna under provet {#instruerande-av-examinanderna-under-provet .Otsikko-5.1}
+#####1. Instruerande av examinanderna under provet {#instruerande-av-examinanderna-under-provet}
 
 Övervakarna eller andra personer i provlokalen får inte under provet
 instruera examinander i hur man använder datorn, reservdatorn eller
@@ -2452,12 +2452,12 @@ provsystemet. Undantag utgörs av de situationer som beskrivs i
 anvisningarna för övervakare (bilaga 4). Nämnden kan också i andra fall
 instruera övervakarna att ge instruktioner åt examinanderna.
 
-##  Provtiden {#provtiden .Otsikko-4.1}
+####1.  Provtiden {#provtiden}
 
 Noggrannare föreskrifter och anvisningar gällande provtillfället och
 övervakarnas uppgifter finns i bilaga 4 (Anvisningar för övervakare).
 
-## Tiden för inledande av provet samt provets längd {#tiden-för-inledande-av-provet-samt-provets-längd .Otsikko-5.1}
+#####1. Tiden för inledande av provet samt provets längd {#tiden-för-inledande-av-provet-samt-provets-längd}
 
 Provtillfällena inleds i alla gymnasier före kl. 9.00 enligt vad som
 sägs i kapitel 2.3.4. Utförandet av proven får inledas tidigast kl.
@@ -2471,7 +2471,7 @@ provet från servern i provlokalen. En examinand som en och samma dag
 skriver två språkprov baserade på kort lärokurs har dock trots detta
 sammanlagt åtta timmar på sig att slutföra proven.
 
-## Att avlägsna sig från provtillfället före klockan 12 {#att-avlägsna-sig-från-provtillfället-före-klockan-12 .Otsikko-5.1}
+#####1. Att avlägsna sig från provtillfället före klockan 12 {#att-avlägsna-sig-från-provtillfället-före-klockan-12}
 
 Om någon examinand trots förbudet lämnar provtillfället före kl. 12,
 måste gymnasiet omedelbart underrätta nämnden om vad som inträffat.
@@ -2480,7 +2480,7 @@ plötslig sjukdomsattack ska nämnden informeras om det inträffade. Vid
 sjukdomsfall bär gymnasiet ansvar för övervakningen av examinanden fram
 till kl. 12.
 
-## Försening från provtillfället {#försening-från-provtillfället .Otsikko-5.1}
+#####1. Försening från provtillfället {#försening-från-provtillfället}
 
 En examinand som kommer för sent till ett prov, men anländer till
 platsen före kl. 10, kan tillåtas delta i provet. I provprotokollet ska
@@ -2494,7 +2494,7 @@ de andra examinanderna. Om orsaken till förseningen har varit helt
 oberoende av examinanden själv kan gymnasiet förhandla om förlängd
 provtid med nämndens kansli.
 
-## Avbrott i utförandet av provet {#avbrott-i-utförandet-av-provet .Otsikko-5.1}
+#####1. Avbrott i utförandet av provet {#avbrott-i-utförandet-av-provet}
 
 Om utförandet av provet avbryts av en teknisk orsak som inte beror på
 examinanden, tillgodoräknas examinanden den förlorade provtiden. Som
@@ -2508,7 +2508,7 @@ och exceptionella situationer bevilja gottgörelse till exempel i form av
 tilläggstid. Gottgörelse i form av tilläggstid förutsätter att nämnden
 kontaktas under provet.
 
-##  Provprotokoll {#provprotokoll .Otsikko-4.1}
+####1.  Provprotokoll {#provprotokoll}
 
 De förhandsifyllda provprotokollsblanketterna skrivs ut från nämndens
 examenstjänst av gymnasiet. Om namnet på en examinand som anländer till
@@ -2531,7 +2531,7 @@ Provprotokollen i original ska samtidigt skickas till nämnden inom en
 vecka efter det att alla prov i examen är genomförda. Gymnasiet bör
 behålla en kopia eller ett dublettexemplar av provprotokollen.
 
-## Jäv och användarrättigheter till examenstjänsten {#jäv-och-användarrättigheter-till-examenstjänsten .Otsikko-3.1}
+###1. Jäv och användarrättigheter till examenstjänsten {#jäv-och-användarrättigheter-till-examenstjänsten}
 
 Jäv i den mening som avses i förvaltningslagen kan beröra gymnasiets
 rektor, en lärare eller annan personal som sköter uppgifter i samband
@@ -2660,7 +2660,7 @@ jävförhållanden som uppkommer utifrån närstående enligt
 förvaltningslagen i enlighet med de uppgifter som personerna som deltar
 i bedömningen meddelat.
 
-##  Dokument som ska arkiveras i gymnasiet {#dokument-som-ska-arkiveras-i-gymnasiet .Otsikko-3.1}
+###1.  Dokument som ska arkiveras i gymnasiet {#dokument-som-ska-arkiveras-i-gymnasiet}
 
 Öppningsprotokollen ska förvaras i gymnasiet i ett års tid.
 

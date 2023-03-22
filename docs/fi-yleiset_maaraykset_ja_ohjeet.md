@@ -248,7 +248,7 @@ säilyttäminen
 [2.5 Lukiossa arkistoitavat asiakirjat
 [71](#lukiossa-arkistoitavat-asiakirjat)](#lukiossa-arkistoitavat-asiakirjat)
 
-##  Ylioppilastutkinto
+##1.  Ylioppilastutkinto
 
 Ylioppilastutkinnosta ja siihen liittyvistä asioista säädetään
 ylioppilastutkinnosta annetussa laissa (502/2019), valtioneuvoston
@@ -281,7 +281,7 @@ tutkintoaan suorittamalla kokeita myös eri tutkintokielellä. Lukio
 järjestää ainoastaan sellaiset kokeet, jotka voidaan sisällyttää lukion
 opetuskielellä suoritettavaan ylioppilastutkintoon.
 
-## Tutkinnon suorittaminen {#tutkinnon-suorittaminen .Otsikko-3.1}
+###1. Tutkinnon suorittaminen {#tutkinnon-suorittaminen}
 
 Ylioppilastutkinto tulee suoritetuksi, kun kokelas on suorittanut
 hyväksytysti tutkintoon vaadittavat kokeet sekä ylioppilastutkinnon
@@ -310,9 +310,9 @@ katsotaan hylätyksi. Tutkinnon suorittamisen voi tällöin aloittaa
 uudelleen (ks. 1.1.5 Tutkinnon aloittaminen uudelleen hylätyn tutkinnon
 jälkeen).
 
-## Tutkinnon aineyhdistelmät {#tutkinnon-aineyhdistelmät .Otsikko-4.1}
+####1. Tutkinnon aineyhdistelmät {#tutkinnon-aineyhdistelmät}
 
-## Syksyllä 2021 tai aikaisemmin aloitetut tutkinnot  {#syksyllä-2021-tai-aikaisemmin-aloitetut-tutkinnot .Otsikko-5.1}
+#####1. Syksyllä 2021 tai aikaisemmin aloitetut tutkinnot  {#syksyllä-2021-tai-aikaisemmin-aloitetut-tutkinnot}
 
 Kokelaan tutkintoon kuuluu vähintään neljä koetta, joista äidinkielen ja
 kirjallisuuden koe on kaikille pakollinen. Kokelas valitsee kolme muuta
@@ -326,7 +326,7 @@ koe tai toisen kotimaisen kielen kokeena suoritettu äidinkielen ja
 kirjallisuuden koe. Ylioppilastutkintoon voi kuulua vain yksi koe
 samassa oppiaineessa. (L 672/2005, 6 §.)
 
-## Keväällä 2022 tai myöhemmin aloitetut tutkinnot  {#keväällä-2022-tai-myöhemmin-aloitetut-tutkinnot .Otsikko-5.1}
+#####1. Keväällä 2022 tai myöhemmin aloitetut tutkinnot  {#keväällä-2022-tai-myöhemmin-aloitetut-tutkinnot}
 
 Ylioppilastutkintoa suorittavan kokelaan tutkintoon kuuluu vähintään
 viisi koetta eri tutkintoaineissa. Yhtenä tutkintoon vaadittavista
@@ -350,13 +350,13 @@ yhdistelmään voi kuulua vain yksi koe samassa oppiaineessa. Kokelas voi
 lisäksi suorittaa yhden tai useamman muun kokeen. (L 502/2019, 10 § 2
 mom.)
 
-## Tutkinnon aloittaminen  {#tutkinnon-aloittaminen .Otsikko-4.1}
+####1. Tutkinnon aloittaminen  {#tutkinnon-aloittaminen}
 
 Tutkinnon suorittaminen alkaa, kun kokelas ilmoittautuu ensimmäistä
 kertaa tutkinnon suorittajaksi tutkintoon (ks. 1.3. Osallistumisoikeus
 ja 1.4. Ilmoittautuminen).
 
-## Tutkinnon suorittamisajan pidentäminen  {#tutkinnon-suorittamisajan-pidentäminen .Otsikko-4.1}
+####1. Tutkinnon suorittamisajan pidentäminen  {#tutkinnon-suorittamisajan-pidentäminen}
 
 Kokelas, joka on aloittanut tutkinnon suorittamisen syksyllä 2021 tai
 sitä ennen ja joka on osallistunut yhteen tutkintokertaan ja ulkomailla
@@ -388,7 +388,7 @@ sairaus ja työkyvyttömyysaika. Ulkomailla tapahtuvan opiskelun tai
 vastaavan syyn osalta hakemuksesta ja sen liitteistä on käytävä ilmi
 opintojen tai muun syyn alkamis- ja päättymisajankohta.
 
-## Tutkinnon aloittaminen alusta tutkinnon ollessa kesken {#tutkinnon-aloittaminen-alusta-tutkinnon-ollessa-kesken .Otsikko-4.1}
+####1. Tutkinnon aloittaminen alusta tutkinnon ollessa kesken {#tutkinnon-aloittaminen-alusta-tutkinnon-ollessa-kesken}
 
 Ylioppilastutkintolautakunta voi hakemuksesta erityisen painavan syyn
 vuoksi päättää, että kokelas voi tutkinnon ollessa kesken aloittaa
@@ -399,7 +399,7 @@ mukaan lausuntonsa asiasta ja lähettää hakemuksen lautakuntaan.
 Kokelas ei voi sisällyttää suoritettuja kokeita kesken jääneestä
 tutkinnosta uuteen tutkintoon.
 
-## Tutkinnon aloittaminen uudelleen hylätyn tutkinnon jälkeen {#tutkinnon-aloittaminen-uudelleen-hylätyn-tutkinnon-jälkeen .Otsikko-4.1}
+####1. Tutkinnon aloittaminen uudelleen hylätyn tutkinnon jälkeen {#tutkinnon-aloittaminen-uudelleen-hylätyn-tutkinnon-jälkeen}
 
 Tutkinto, jota ei ole mahdollista saattaa valmiiksi jäljellä olevien
 tutkintokertojen ja hylätyn kokeen uusimiskertojen mukaisessa ajassa,
@@ -421,7 +421,7 @@ luvussa 1.1.8 (Opintojen valmistuminen kokeiden suorittamisen jälkeen)
 esitetyn aikataulun mukaisesti. (Sisällytetyn kokeen uusiminen, ks.
 1.3.4.)
 
-## Erillisten kokeiden suorittaminen {#erillisten-kokeiden-suorittaminen .Otsikko-4.1}
+####1. Erillisten kokeiden suorittaminen {#erillisten-kokeiden-suorittaminen}
 
 Henkilö, joka ei ole suorittanut ylioppilastutkintoa, voi suorittaa
 ylioppilastutkinnon kokeita erillisinä. Erillisistä kokeista ei muodostu
@@ -443,7 +443,7 @@ tahansa vaiheessa tutkintoa, kuitenkin viimeistään luvussa 1.1.8
 aikataulun mukaisesti. (Sisällytetyn kokeen uusiminen, ks. 1.3.4.
 Hyväksytyn kokeen uusiminen ja tutkinnon täydentäminen)
 
-## Tutkinnon suorittaminen hylätyllä kokeella (kompensaatio) {#tutkinnon-suorittaminen-hylätyllä-kokeella-kompensaatio .Otsikko-4.1}
+####1. Tutkinnon suorittaminen hylätyllä kokeella (kompensaatio) {#tutkinnon-suorittaminen-hylätyllä-kokeella-kompensaatio}
 
 Ylioppilastutkinto tulee suoritetuksi tutkintoon vaadittavassa kokeessa
 annetun hylätyn arvosanan estämättä, jos kokelaan suorittamien muiden
@@ -466,7 +466,7 @@ lautakunnalle. Ilmoituksen on oltava lautakunnassa kevään tutkinnossa
 viimeistään 5. toukokuuta ja syksyn tutkinnossa viimeistään 4.
 marraskuuta.
 
-## Syksyllä 2021 tai aikaisemmin aloitetut tutkinnot  {#syksyllä-2021-tai-aikaisemmin-aloitetut-tutkinnot-1 .Otsikko-5.1}
+#####1. Syksyllä 2021 tai aikaisemmin aloitetut tutkinnot  {#syksyllä-2021-tai-aikaisemmin-aloitetut-tutkinnot-1}
 
 Hylätyt suoritukset eri kokeissa jaotellaan neljään tasoluokkaan, joista
 käytetään merkintöjä i+, i, i- ja i=. Kokelaan kustakin hyväksytystä
@@ -493,7 +493,7 @@ ennen kevättä 2022.
   i=          18                    i= ja EEE     i= ja CCMM    i= ja BBCCC   i= ja BBBBBB
   -----------------------------------------------------------------------------------------
 
-## Keväällä 2022 tai myöhemmin aloitetut tutkinnot {#keväällä-2022-tai-myöhemmin-aloitetut-tutkinnot-1 .Otsikko-5.1}
+#####1. Keväällä 2022 tai myöhemmin aloitetut tutkinnot {#keväällä-2022-tai-myöhemmin-aloitetut-tutkinnot-1}
 
 Jos kokelas on suorittanut tutkintoon vaadittavista viidestä kokeesta
 yhden kokeen hylätyllä arvosanalla ja neljä hyväksytyllä arvosanalla,
@@ -526,7 +526,7 @@ saada tutkintonsa valmiiksi, todistukseen merkitään viimeisimmällä
 tutkintokerralla suoritettu koe. Jos tällaisia kokeita on useita,
 lautakunta päättää, mikä kokeista todistukseen merkitään.
 
-## Ylioppilastutkintoon vaadittavien opintojen valmistumisesta ilmoittaminen {#ylioppilastutkintoon-vaadittavien-opintojen-valmistumisesta-ilmoittaminen .Otsikko-4.1}
+####1. Ylioppilastutkintoon vaadittavien opintojen valmistumisesta ilmoittaminen {#ylioppilastutkintoon-vaadittavien-opintojen-valmistumisesta-ilmoittaminen}
 
 Lautakunta käyttää Opetushallituksen ylläpitämästä Koski-tietovarannosta
 saatavaa tietoa kokelaan suorittamasta lukion oppimäärästä tai
@@ -550,7 +550,7 @@ Jos kokelas suorittaa kaksoistutkintoa eli ammatillista perustutkintoa
 ja ylioppilastutkintoa, tulee hänen ammatillisen oppilaitoksensa
 tallentaa tieto valmistumisesta 5.5. mennessä.
 
-## Todistuksenantopäivät {#todistuksenantopäivät .Otsikko-5.1}
+#####1. Todistuksenantopäivät {#todistuksenantopäivät}
 
 Kun kokelaan tutkintoon vaadittavat opinnot ilmoitetaan valmiiksi,
 kokelas, joka on suorittanut tutkintoon vaadittavat kokeet, saa
@@ -621,7 +621,7 @@ syksyn varsinaisten todistuksenantopäivien todistukset lähetetään
 lukioille ennen todistuksenantopäivää (ks. 1.9). Lukio toimittaa
 todistuksen kokelaalle.
 
-## Kokeet {#kokeet .Otsikko-3.1}
+###1. Kokeet {#kokeet}
 
 Ylioppilastutkintoon kuuluu äidinkielessä ja kirjallisuudessa, toisessa
 kotimaisessa kielessä, vieraissa kielissä, matematiikassa sekä
@@ -658,7 +658,7 @@ perustua lukion opetussuunnitelmien perusteissa (2019) kuvattuun
 laaja-alaisen osaamiseen. Kokelailta ei edellytetä vastauksissa toisen
 oppiaineen yksityiskohtaisia tietoja tai taitoja.
 
-## Kokeista annettavat arvosanat  {#kokeista-annettavat-arvosanat .Otsikko-4.1}
+####1. Kokeista annettavat arvosanat  {#kokeista-annettavat-arvosanat}
 
 Kokeista annettavat arvosanat ovat laudatur, eximia cum laude
 approbatur, magna cum laude approbatur, cum laude approbatur, lubenter
@@ -667,7 +667,7 @@ käytetään kirjainlyhenteitä L, E, M, C, B, A ja I. Arvosanoja vastaavat
 pistemäärät ovat 7 (L), 6 (E), 5 (M), 4 (C), 3 (B), 2 (A) ja 0 (I) (ks.
 1.1.7 Tutkinnon suorittaminen hylätyllä kokeella (kompensaatio)).
 
-## Äidinkielen ja kirjallisuuden koe  {#äidinkielen-ja-kirjallisuuden-koe .Otsikko-4.1}
+####1. Äidinkielen ja kirjallisuuden koe  {#äidinkielen-ja-kirjallisuuden-koe}
 
 Äidinkielen ja kirjallisuuden kokeet järjestetään suomen, ruotsin ja
 saamen kielissä (L 502/2019, 3 §).
@@ -711,7 +711,7 @@ toisena kielenä ja kirjallisuus -kokeen. Suomi tai ruotsi toisena
 kielenä ja kirjallisuus -koe suoritetaan äidinkielen ja kirjallisuuden
 kokeen kirjoituspäivänä erikseen julkaistavan aikataulun mukaisesti.
 
-## Toisen kotimaisen kielen koe {#toisen-kotimaisen-kielen-koe .Otsikko-4.1}
+####1. Toisen kotimaisen kielen koe {#toisen-kotimaisen-kielen-koe}
 
 Toisen kotimaisen kielen koe on suomenkielisissä lukioissa ruotsin
 kielen koe ja ruotsinkielisissä lukioissa suomen kielen koe. Toisessa
@@ -740,7 +740,7 @@ ruotsin äidinkielen ja kirjallisuuden kokeen ruotsinkielisessä lukiossa.
 Tämän lisäksi hän voi suorittaa lukion opetuskielen mukaisen toisen
 kotimaisen kielen kokeen.
 
-## Vieraiden kielten koe {#vieraiden-kielten-koe .Otsikko-4.1}
+####1. Vieraiden kielten koe {#vieraiden-kielten-koe}
 
 Vieraissa kielissä järjestetään kokeet englannin, espanjan, italian,
 ranskan, saksan, venäjän, inarinsaamen, koltansaamen, pohjoissaamen,
@@ -776,13 +776,13 @@ kokeen (L502/2019, 11 §). Tutkintoon vaadittavana kokeena vieraan kielen
 kokeen sijasta suoritetun saamen äidinkielen ja kirjallisuuden kokeen
 katsotaan vastaavan vaativamman tason koetta (L 502/2019, 10 §).
 
-## Matematiikan koe {#matematiikan-koe .Otsikko-4.1}
+####1. Matematiikan koe {#matematiikan-koe}
 
 Kokelas saa tutkinnossa suorittaa matematiikan pitkään tai lyhyeen
 oppimäärään perustuvan kokeen riippumatta siitä, minkä oppimäärän mukaan
 hän on matematiikkaa lukiossa opiskellut.
 
-## Reaaliaineiden kokeet {#reaaliaineiden-kokeet .Otsikko-4.1}
+####1. Reaaliaineiden kokeet {#reaaliaineiden-kokeet}
 
 Reaaliaineissa järjestetään kokeet uskonnossa, elämänkatsomustiedossa,
 psykologiassa, filosofiassa, historiassa, yhteiskuntaopissa, fysiikassa,
@@ -796,9 +796,9 @@ vaatimukset (ks. 1.3. Osallistumisoikeus). Keväällä 2022 tai sen jälkeen
 aloitetun tutkinnon viiteen vaadittavaan kokeeseen voi sisällyttää vain
 yhden uskonnon kokeen.
 
-## Osallistumisoikeus {#osallistumisoikeus .Otsikko-3.1}
+###1. Osallistumisoikeus {#osallistumisoikeus}
 
-## Lukion opiskelija {#lukion-opiskelija .Otsikko-4.1}
+####1. Lukion opiskelija {#lukion-opiskelija}
 
 Lukiokoulutuksen oppimäärää suorittava voi osallistua
 ylioppilastutkinnon kokeeseen opiskeltuaan valtioneuvoston tuntijakoa
@@ -828,9 +828,9 @@ kysymykseen esimerkiksi silloin, kun henkilö on oppinut jonkin kielen
 ulkomailla tai hänellä on ollut pitkäaikainen sairaus, joka on estänyt
 opiskelemasta vaadittavia opintoja.
 
-## Muu kuin lukion opiskelija {#muu-kuin-lukion-opiskelija .Otsikko-4.1}
+####1. Muu kuin lukion opiskelija {#muu-kuin-lukion-opiskelija}
 
-## Suomalaisen lukion oppimäärän suorittanut {#suomalaisen-lukion-oppimäärän-suorittanut .Otsikko-5.1}
+#####1. Suomalaisen lukion oppimäärän suorittanut {#suomalaisen-lukion-oppimäärän-suorittanut}
 
 Ylioppilastutkintoon ja siihen kuuluviin kokeisiin saa osallistua
 henkilö, joka on suorittanut lukion koko oppimäärän (L 502/2019, 5 §).
@@ -838,21 +838,21 @@ Jos henkilö suorittaa lukion oppimäärää lukiolain (714/2018) 36 §:ssä
 tarkoitettuna erityisenä tutkintona, hän voi ilmoittautua suorittamaan
 ylioppilastutkintoa vasta suoritettuaan koko lukion oppimäärän.
 
-## Ulkomaisen lukion oppimäärän suorittanut {#ulkomaisen-lukion-oppimäärän-suorittanut .Otsikko-5.1}
+#####1. Ulkomaisen lukion oppimäärän suorittanut {#ulkomaisen-lukion-oppimäärän-suorittanut}
 
 Ulkomaisen lukion suorittanut henkilö voi osallistua tutkintoon ja
 siihen kuuluviin kokeisiin, jos hänen suorittamansa lukion oppimäärän
 voi katsoa vastaavan suomalaisen lukion oppimäärää (L 502/2019, 5 §) eli
 henkilön koulutusaika on yhteensä 12 vuotta.
 
-## Suomalaisen lukion oppimäärän aineopiskelijana osittain suorittanut henkilö {#suomalaisen-lukion-oppimäärän-aineopiskelijana-osittain-suorittanut-henkilö .Otsikko-5.1}
+#####1. Suomalaisen lukion oppimäärän aineopiskelijana osittain suorittanut henkilö {#suomalaisen-lukion-oppimäärän-aineopiskelijana-osittain-suorittanut-henkilö}
 
 Henkilö, joka on otettu aineopiskelijaksi suorittamaan yhden tai
 useamman lukiokoulutuksen oppimäärään kuuluvan oppiaineen opintoja, voi
 suorittaa ylioppilastutkinnon kokeita erillisinä (ks. 1.1.6 Erillisten
 kokeiden suorittaminen).
 
-## Ammatillisen tutkinnon suorittanut tai suorittava henkilö {#ammatillisen-tutkinnon-suorittanut-tai-suorittava-henkilö .Otsikko-5.1}
+#####1. Ammatillisen tutkinnon suorittanut tai suorittava henkilö {#ammatillisen-tutkinnon-suorittanut-tai-suorittava-henkilö}
 
 Henkilöllä on vähintään 180 osaamispisteen laajuisen ammatillisen
 perustutkinnon tai sitä vastaavan aiemman tutkinnon perusteella oikeus
@@ -906,7 +906,7 @@ osallistumisoikeutta koskevan asian ylioppilastutkintolain (L 502/2019)
 hakea oikaisua rehtorin päätökseen. (L 502/2019, 21 § 1 mom., L
 672/2005, 15 § 1 mom.)
 
-## Osallistumisoikeuden tarkistaminen {#osallistumisoikeuden-tarkistaminen .Otsikko-4.1}
+####1. Osallistumisoikeuden tarkistaminen {#osallistumisoikeuden-tarkistaminen}
 
 Rehtorin tehtävänä on varmistaa, että kokelas täyttää kokeisiin
 osallistumiselle säädetyt edellytykset. Lautakunta antaa tarvittaessa
@@ -935,7 +935,7 @@ ilmoittautunut mutta johon hän ei ole saanut osallistumisoikeutta,
 poistetaan lautakunnassa kokelaan aineyhdistelmästä. Tätä ei katsota
 kokeen yrityskerraksi.
 
-## Hyväksytyn kokeen uusiminen ja tutkinnon täydentäminen {#hyväksytyn-kokeen-uusiminen-ja-tutkinnon-täydentäminen .Otsikko-4.1}
+####1. Hyväksytyn kokeen uusiminen ja tutkinnon täydentäminen {#hyväksytyn-kokeen-uusiminen-ja-tutkinnon-täydentäminen}
 
 Hyväksytyn kokeen saa uusia ilman rajoitusta (L 502/2019, 16 §). Tämä
 koskee kaikkia kokelaita riippumatta siitä, milloin koe on suoritettu.
@@ -978,7 +978,7 @@ muille henkilöille. (L 502/2019, 4 §.) Koulutuksen järjestäjä sijoittaa
 uusijat eri lukioihin ja toimipisteisiin oman harkintansa mukaan ja
 tiedottaa heitä suorituspaikasta ja muista käytännön järjestelyistä.
 
-## Hylätyn kokeen uusiminen {#hylätyn-kokeen-uusiminen .Otsikko-4.1}
+####1. Hylätyn kokeen uusiminen {#hylätyn-kokeen-uusiminen}
 
 Hylätyn kokeen voi uusia kolme kertaa tutkinnon suorittamisen aikana (L
 502/2019, 16 §). Tämä koskee kaikkia kokelaita riippumatta siitä,
@@ -1013,7 +1013,7 @@ Ylioppilastutkinnon hyväksytysti suorittanut voi uusia hylättyä koetta
 rajoituksetta (L 502/2019, 16 §). Tutkinnon tulee olla valmis ennen
 ilmoittautumisajan umpeutumista.
 
-## Ilmoittautuminen {#ilmoittautuminen .Otsikko-3.1}
+###1. Ilmoittautuminen {#ilmoittautuminen}
 
 Kokelaan tulee ilmoittautua kutakin tutkintokertaa ja koetta varten
 siihen lukioon, jossa hän aikoo suorittaa kokeen. Kokelas voi yhdellä
@@ -1050,7 +1050,7 @@ Tutkintotodistuksen saaminen edellyttää ilmoittautumista tutkinnon
 suorittajaksi. Erillisiä kokeita suorittamalla ei voi saada
 ylioppilastutkintotodistusta.
 
-## Ilmoittautumisen sitovuus {#ilmoittautumisen-sitovuus .Otsikko-4.1}
+####1. Ilmoittautumisen sitovuus {#ilmoittautumisen-sitovuus}
 
 Tutkintoon ilmoittautuminen on sitova. Tutkintoa tai erillisiä kokeita
 suorittamaan ilmoittautunut kokelas on velvollinen maksamaan
@@ -1081,7 +1081,7 @@ oppimäärän lisääminen ei ole mahdollista, kokeen tason voi olla
 vaihdettavissa luvussa 1.3.5 Hylätyn kokeen uusiminen mainituista
 syistä.
 
-## Ilmoittautumisen peruuttaminen ja mitätöinti {#ilmoittautumisen-peruuttaminen-ja-mitätöinti .Otsikko-4.1}
+####1. Ilmoittautumisen peruuttaminen ja mitätöinti {#ilmoittautumisen-peruuttaminen-ja-mitätöinti}
 
 Kokelas voi kirjallisesti peruuttaa ilmoittautumisensa, jonka rehtori on
 hyväksynyt, viimeistään lautakunnan määräämänä ilmoittautumisajan
@@ -1116,7 +1116,7 @@ peritty maksu palautetaan lautakunnan määräämässä ajassa tehdystä
 hakemuksesta. (L 502/2019, 20 §, L 672/2005, 5 §) (Vrt. 2.2.2
 Koekohtaisten maksujen palauttaminen.)
 
-## Ilmoittautuminen määräajan päätyttyä {#ilmoittautuminen-määräajan-päätyttyä .Otsikko-4.1}
+####1. Ilmoittautuminen määräajan päätyttyä {#ilmoittautuminen-määräajan-päätyttyä}
 
 Ylioppilastutkintolautakunta voi kokelaan sairauden tai muun siihen
 rinnastettavan erityisen painavan syyn vuoksi hyväksyä määräajan
@@ -1139,7 +1139,7 @@ kopion kokelaan tutkinnon hajautussuunnitelmasta tai lääkärinlausunnon.
 Jos lautakunta hyväksyy kokelaan hakemuksen, kokelaan tulee jättää
 kirjallinen ilmoittautuminen lukiolle (Vrt. 1.4 Ilmoittautuminen).
 
-## Muutos ilmoittautumistietoihin {#muutos-ilmoittautumistietoihin .Otsikko-4.1}
+####1. Muutos ilmoittautumistietoihin {#muutos-ilmoittautumistietoihin}
 
 Syksyllä 2021 tai aikaisemmin aloitetuissa tutkinnoissa lautakunta voi
 hyväksyä muutoksen ilmoittautumiseen sisältyviin tietoihin, jos
@@ -1156,7 +1156,7 @@ Hakemukseen on liitettävä kokelaan ilmoittautumislomake tai siitä otettu
 kopio sekä erityisen painavaa syytä kuvaava lausunto. Tutkinnon
 hajautussuunnitelma on hyvä liittää mukaan hakemukseen.
 
-## Lukiota vaihtavat kokelaat {#lukiota-vaihtavat-kokelaat .Otsikko-4.1}
+####1. Lukiota vaihtavat kokelaat {#lukiota-vaihtavat-kokelaat}
 
 Jos kokelas vaihtaa lukiota ilmoittautumistietojen siirron jälkeen,
 lukio, josta kokelas lähtee ja lukio, johon kokelas siirtyy, sopivat
@@ -1181,9 +1181,9 @@ joka on toimittanut ilmoittautumistiedot lautakuntaan, vastaa
 alustavasta arvostelusta ja muista kokelaan tutkinnon järjestämiseen
 liittyvistä asioista. (Ks. 2.1.4 Yhteiset koetilaisuudet)
 
-## Koetarvikkeet ja koesuoritukset  {#koetarvikkeet-ja-koesuoritukset .Otsikko-3.1}
+###1. Koetarvikkeet ja koesuoritukset  {#koetarvikkeet-ja-koesuoritukset}
 
-## Kokelaan tietokone ja lisälaitteet  {#kokelaan-tietokone-ja-lisälaitteet .Otsikko-4.1}
+####1. Kokelaan tietokone ja lisälaitteet  {#kokelaan-tietokone-ja-lisälaitteet}
 
 Kokelaan velvollisuus on huolehtia, että hänellä on kokeessa mukanaan
 kokelaan tietokonetta koskevan ohjeen (ks. liite 2) mukainen tietokone,
@@ -1208,7 +1208,7 @@ rehtori voi tarvittaessa vaatia, että lisälaitteet tarkistetaan
 etukäteen. Rehtori tai koetilaisuuden valvoja voi tarvittaessa määrätä
 kokelaan käyttämään lukion tietokonetta oman tietokoneensa sijasta.
 
-## Muut tarvikkeet ja apuvälineet  {#muut-tarvikkeet-ja-apuvälineet .Otsikko-4.1}
+####1. Muut tarvikkeet ja apuvälineet  {#muut-tarvikkeet-ja-apuvälineet}
 
 Kokelas voi käyttää luonnospaperia (A3 taitettuna tai niiden
 puolikkaita) vastauksen luonnosteluun. Lukio antaa paperit valmiina
@@ -1235,7 +1235,7 @@ määräyksissä. Lautakunta voi tutkintokertakohtaisesti erikseen antaa
 tarkempia ohjeita kokeissa sallituista tai kielletyistä välineistä ja
 varusteista.
 
-## Koesuoritukset ja suoritusten luonnokset  {#koesuoritukset-ja-suoritusten-luonnokset .Otsikko-4.1}
+####1. Koesuoritukset ja suoritusten luonnokset  {#koesuoritukset-ja-suoritusten-luonnokset}
 
 Kunkin kokeen koekohtaisissa määräyksissä, kokeen alussa ja koetehtävien
 yhteydessä annetaan tarkemmat ohjeet siitä, miten koetehtäviin
@@ -1254,7 +1254,7 @@ Kaikki kokelaan kokeessa käyttämät paperit tulkitaan luonnoksiksi.
 Luonnoksia ei oteta arvostelussa huomioon (ks. 2.5 Lukiossa
 arkistoitavat asiakirjat).
 
-## Vilppi ja tutkintojärjestyksen rikkominen  {#vilppi-ja-tutkintojärjestyksen-rikkominen .Otsikko-3.1}
+###1. Vilppi ja tutkintojärjestyksen rikkominen  {#vilppi-ja-tutkintojärjestyksen-rikkominen}
 
 Kokelaan tulee olla ennen tutkintoon osallistumista selvillä siitä, mitä
 seuraamuksia on vilpillisestä menettelystä, vilpin yrityksestä,
@@ -1379,9 +1379,9 @@ Kokeesta poistuminen ennen lautakunnan sallimaa aikaa mahdollistaa
 koesalaisuuteen kuuluvien tietojen välittämisen ja se katsotaan vilpin
 yritykseksi.
 
-## Koesuoritusten arvostelu  {#koesuoritusten-arvostelu .Otsikko-3.1}
+###1. Koesuoritusten arvostelu  {#koesuoritusten-arvostelu}
 
-## Kokeesta pois jääminen tai tyhjän koesuorituksen jättäminen  {#kokeesta-pois-jääminen-tai-tyhjän-koesuorituksen-jättäminen .Otsikko-4.1}
+####1. Kokeesta pois jääminen tai tyhjän koesuorituksen jättäminen  {#kokeesta-pois-jääminen-tai-tyhjän-koesuorituksen-jättäminen}
 
 Jos kokeeseen ilmoittautunut henkilö jää saapumatta koetilaisuuteen tai
 ei jätä koesuoritusta arvosteltavaksi, koe katsotaan hylätyksi (L
@@ -1396,7 +1396,7 @@ kirjoitustaidon kokeeseen, tai ei jätä kummassakin äidinkielen ja
 kirjallisuuden kokeen osassa koesuoritusta arvosteltavaksi, äidinkielen
 ja kirjallisuuden koe katsotaan hylätyksi.
 
-## Alustava arvostelu  {#alustava-arvostelu .Otsikko-4.1}
+####1. Alustava arvostelu  {#alustava-arvostelu}
 
 Koesuoritukset tarkastaa ja arvostelee alustavasti lukiokoulutuksen
 järjestäjän osoittama asianomaisen aineen opettaja (L 502/2019, 18 §).
@@ -1461,7 +1461,7 @@ mikä vaikuttaa lopulliseen arvosteluun. Alustavan arvostelun tuloksista
 ilmoitettaessa koesuorituksia ei saa näyttää kokelaille (L 621/1999, 11
 § kohta 3).
 
-## Lopullinen arvostelu ja tulosten julkaiseminen  {#lopullinen-arvostelu-ja-tulosten-julkaiseminen .Otsikko-4.1}
+####1. Lopullinen arvostelu ja tulosten julkaiseminen  {#lopullinen-arvostelu-ja-tulosten-julkaiseminen}
 
 Koesuoritukset tarkastaa ja arvostelee lopullisesti
 Ylioppilastutkintolautakunta (L 502/2019, 18 §). Lautakunnan sensorit
@@ -1494,7 +1494,7 @@ Ylioppilastutkintolautakunnan päätökseen, jolla koesuoritus on
 arvosteltu, saa vaatia oikaisua siten kuin hallintolaissa säädetään (L
 502/2019, 22 §, ks. 1.7.7 Oikaisuvaatimus).
 
-## Koesuoritusta heikentävän syyn huomioon ottaminen arvostelussa  {#koesuoritusta-heikentävän-syyn-huomioon-ottaminen-arvostelussa .Otsikko-4.1}
+####1. Koesuoritusta heikentävän syyn huomioon ottaminen arvostelussa  {#koesuoritusta-heikentävän-syyn-huomioon-ottaminen-arvostelussa}
 
 Jos kokelaan koesuoritusta on heikentänyt sairaus, vamma tai muu niihin
 rinnastettava erityisen painava peruste, eikä erityisjärjestelyjen voida
@@ -1512,7 +1512,7 @@ koesuoritusta heikentävän syyn huomioon ottamisesta
 ylioppilastutkinnossa (ks. myös 2.1.3 Koesuoritusta heikentävän syyn
 perusteella myönnettävät erityisjärjestelyt).
 
-## Kokeessa tapahtuneen häiriön huomioon ottaminen arvostelussa  {#kokeessa-tapahtuneen-häiriön-huomioon-ottaminen-arvostelussa .Otsikko-4.1}
+####1. Kokeessa tapahtuneen häiriön huomioon ottaminen arvostelussa  {#kokeessa-tapahtuneen-häiriön-huomioon-ottaminen-arvostelussa}
 
 Häiriöt ja muut ongelmatilanteet pyritään ratkaisemaan koetilanteen
 aikana. Häiriöstä johtuvaan poikkeavaan arvosteluun suhtaudutaan
@@ -1561,7 +1561,7 @@ Poikkeuksellisissa tilanteissa, joissa häiriötilanne on estänyt laajalti
 kokeen osan suorittamisen, lautakunta voi myöntää hyvityspisteitä myös
 muulla tavalla.
 
-## Tarkistuspyyntö  {#tarkistuspyyntö .Otsikko-4.1}
+####1. Tarkistuspyyntö  {#tarkistuspyyntö}
 
 Jos jokin lautakunnan ilmoittama tutkintotulos vaikuttaa virheelliseltä,
 rehtori tai asianomaisen aineen opettaja voi esittää tarkistuspyynnön
@@ -1570,7 +1570,7 @@ syytä tehdä heti, kun virheellinen tulos on havaittu. Todetut tekniset
 virheet ja muut sellaiset virheellisyydet, jotka eivät edellytä luvussa
 1.7.7 tarkoitettua oikaisuvaatimusta, lautakunta korjaa välittömästi.
 
-## Oikaisuvaatimus  {#oikaisuvaatimus .Otsikko-4.1}
+####1. Oikaisuvaatimus  {#oikaisuvaatimus}
 
 Ylioppilastutkintolautakunnan päätökseen, jolla koesuoritus on
 arvosteltu, saa vaatia lautakunnalta oikaisua (L 502/2019, 22 §).
@@ -1640,7 +1640,7 @@ oikaisumenettelyn tuloksena muuttuu, tilalle annetaan maksutta uusi
 todistus. Kokelas vastaa itse vanhan todistuksen asianmukaisesta
 hävittämisestä lautakunnan ohjeiden mukaisesti.
 
-## Arvostelua koskevien tietojen antaminen  {#arvostelua-koskevien-tietojen-antaminen .Otsikko-4.1}
+####1. Arvostelua koskevien tietojen antaminen  {#arvostelua-koskevien-tietojen-antaminen}
 
 Kokelaan koesuoritukset ovat salassa pidettäviä viranomaisen asiakirjoja
 (Laki viranomaisten toiminnan julkisuudesta 621/1999, 24 § 1 mom. kohta
@@ -1683,7 +1683,7 @@ säilytetään pysyvästi sähköisessä muodossa osana
 ylioppilastutkintorekisteriä (Arkistolaki 831/1994, 8 §,
 Arkistolaitoksen päätös 11.1.2016).
 
-## Nimi- ja suoritustietojen luovuttaminen  {#nimi--ja-suoritustietojen-luovuttaminen .Otsikko-3.1}
+###1. Nimi- ja suoritustietojen luovuttaminen  {#nimi--ja-suoritustietojen-luovuttaminen}
 
 Sekä lautakunnalla että lukiolla on oikeus antaa ylioppilaiden nimet
 julkaistaviksi sen jälkeen, kun lautakunta on lähettänyt lukiolle
@@ -1724,9 +1724,9 @@ koesuorituksia käsitellään anonyymisti. Julkaistuista
 tutkimusraporteista pyydetään yksi kappale lautakunnan arkistoon tai
 sähköinen versio tai linkki julkaistavaksi lautakunnan verkkosivuilla.
 
-## Todistukset  {#todistukset .Otsikko-3.1}
+###1. Todistukset  {#todistukset}
 
-## Ylioppilastutkintotodistus  {#ylioppilastutkintotodistus .Otsikko-4.1}
+####1. Ylioppilastutkintotodistus  {#ylioppilastutkintotodistus}
 
 Ylioppilastutkintotodistus annetaan kokelaalle, joka on
 ylioppilastutkintolain 12 §:ssä säädetyllä tavalla suorittanut
@@ -1762,7 +1762,7 @@ tutkinnon kokeet.
 
 Lukio toimittaa todistukset kokelaille.
 
-## Ylioppilastutkintolautakunnan antama todistus  {#ylioppilastutkintolautakunnan-antama-todistus .Otsikko-4.1}
+####1. Ylioppilastutkintolautakunnan antama todistus  {#ylioppilastutkintolautakunnan-antama-todistus}
 
 Erillisen kokeen suorittaja sekä ylioppilas, joka tutkintotodistuksen
 saamisen jälkeen on uusinut kokeita tai täydentänyt tutkintoaan, saa
@@ -1774,7 +1774,7 @@ tutkinnon edellyttämistä opinnoista puuttuu. Lautakunta toimittaa
 todistukset lukioon, joka toimittaa todistukset kokelaille. (L 502/2019,
 19 § 2 mom.)
 
-## Todistus korkeakoulukelpoisuudesta {#todistus-korkeakoulukelpoisuudesta .Otsikko-4.1}
+####1. Todistus korkeakoulukelpoisuudesta {#todistus-korkeakoulukelpoisuudesta}
 
 Ylioppilastutkinnon suorittanut henkilö voi tilata lautakunnalta
 todistuksen korkeakoulukelpoisuudesta. Todistus voi olla tarpeen
@@ -1785,7 +1785,7 @@ mukana arvosanoja. Todistus korkeakoulukelpoisuudesta on saatavilla
 suomeksi, ruotsiksi, englanniksi, saksaksi ja ranskaksi. Todistuksen
 tilaamisesta peritään maksu.
 
-## Todistusjäljennökset  {#todistusjäljennökset .Otsikko-4.1}
+####1. Todistusjäljennökset  {#todistusjäljennökset}
 
 Ylioppilastutkintolautakunnalta tilattavalla todistusjäljennöksellä
 tarkoitetaan kadonneen tai turmeltuneen ylioppilastutkintotodistuksen
@@ -1807,7 +1807,7 @@ Ylioppilastutkintolautakunnan antamasta todistuksesta. Lukion näistä
 todistuksista mahdollisesti antamat jäljennökset ja kopiot eivät ole
 virallisesti oikeaksi todistettuja lain tarkoittamassa mielessä.
 
-## Käännökset todistuksista  {#käännökset-todistuksista .Otsikko-4.1}
+####1. Käännökset todistuksista  {#käännökset-todistuksista}
 
 Ylioppilastutkintolautakunnasta voi tilata ylioppilastutkintotodistuksen
 tai Ylioppilastutkintolautakunnan antaman muun todistuksen ruotsin- tai
@@ -1817,7 +1817,7 @@ todistuksesta. Käännös on maksullinen, ja sen toimittaminen kestää
 yleensä noin kaksi viikkoa. Käännöstodistuksen voi tilata
 Ylioppilastutkintolautakunnan verkkosivujen kautta.
 
-## Muutoksenhaku Ylioppilastutkintolautakunnan päätökseen  {#muutoksenhaku-ylioppilastutkintolautakunnan-päätökseen .Otsikko-3.1}
+###1. Muutoksenhaku Ylioppilastutkintolautakunnan päätökseen  {#muutoksenhaku-ylioppilastutkintolautakunnan-päätökseen}
 
 Koesuorituksen arvosteluun saa vaatia lautakunnalta oikaisua (ks.
 1.7.7.Oikaisuvaatimus). Oikaisumenettelyssä tehtyyn päätökseen ei saa
@@ -1828,7 +1828,7 @@ valittamalla Helsingin hallinto-oikeuteen siten kuin laissa
 oikeudenkäynnistä hallintoasioissa (808/2019) säädetään, jollei muualla
 laissa toisin säädetä (L 502/2019, 23 §).
 
-## Eräät ylioppilastutkintoa tasoltaan vastaavat tutkinnot  {#eräät-ylioppilastutkintoa-tasoltaan-vastaavat-tutkinnot .Otsikko-3.1}
+###1. Eräät ylioppilastutkintoa tasoltaan vastaavat tutkinnot  {#eräät-ylioppilastutkintoa-tasoltaan-vastaavat-tutkinnot}
 
 International Baccalaureate -tutkinnon tai Reifeprüfung- tai Deutsche
 Internationale Abitur -tutkinnon suorittaminen lukiolaissa (714/2018)
@@ -1844,20 +1844,20 @@ ylioppilastutkinnon tai erillisiä kokeita. Saatuaan tiedon yllä mainitun
 tutkinnon tuloksista henkilö voi hakea oikeutta ilmoittautua syksyn
 ylioppilastutkintoon (ks. 1.4.3 Ilmoittautuminen määräajan päätyttyä).
 
-## Ylioppilastutkinnon toimeenpano lukiossa 
+##1. Ylioppilastutkinnon toimeenpano lukiossa 
 
 Tutkinnon ja kokeiden järjestämisestä oppilaitoksessa vastaa lukiolain
 (714/2018) 57 §:n 1 momentissa tarkoitettu toiminnasta vastaava rehtori
 (L 502/2019, 4 §).
 
-## Ylioppilastutkintolautakunnalle annettavat tiedot  {#ylioppilastutkintolautakunnalle-annettavat-tiedot .Otsikko-3.1}
+###1. Ylioppilastutkintolautakunnalle annettavat tiedot  {#ylioppilastutkintolautakunnalle-annettavat-tiedot}
 
 Koulutuksen järjestäjän tulee pyynnöstä toimittaa
 Ylioppilastutkintolautakunnalle ylioppilastutkinnon järjestämisen ja
 toimeenpanon edellyttämät tiedot (L 502/2019 24 §). Tiedot tallennetaan
 ylioppilastutkintorekisteriin (L 884/2017, luku 3).
 
-## Kokelaiden ilmoittautumistiedot  {#kokelaiden-ilmoittautumistiedot .Otsikko-4.1}
+####1. Kokelaiden ilmoittautumistiedot  {#kokelaiden-ilmoittautumistiedot}
 
 Tutkintoa varten lukio ilmoittaa lautakunnalle kokelaan henkilötiedot,
 tutkintoa koskevat tiedot ja ne kokeet, joihin kokelas kyseisellä
@@ -1894,7 +1894,7 @@ Lukiot toimittavat ilmoittautumistiedot lautakunnalle kevään tutkinnon
 osalta viimeistään 7. joulukuuta ja syksyn tutkinnon osalta viimeistään
 11. kesäkuuta.
 
-## USB-muistien ja erityisryhmien kokeiden tilaus  {#usb-muistien-ja-erityisryhmien-kokeiden-tilaus .Otsikko-4.1}
+####1. USB-muistien ja erityisryhmien kokeiden tilaus  {#usb-muistien-ja-erityisryhmien-kokeiden-tilaus}
 
 Lukio tilaa lautakunnan sähköistä tilauslomaketta käyttäen tarvitsemansa
 määrän USB-muisteja kokelaiden tietokoneita, koetilan palvelimia ja
@@ -1909,7 +1909,7 @@ Lautakunta lähettää USB-muistit tilauslomakkeissa ilmoitettujen
 lukumäärien perusteella. Tarkemmasta lähetysaikataulusta tiedotetaan
 lukioille ennen kutakin tutkintoa.
 
-## Koesuoritusta heikentävän syyn perusteella myönnettävät erityisjärjestelyt  {#koesuoritusta-heikentävän-syyn-perusteella-myönnettävät-erityisjärjestelyt .Otsikko-4.1}
+####1. Koesuoritusta heikentävän syyn perusteella myönnettävät erityisjärjestelyt  {#koesuoritusta-heikentävän-syyn-perusteella-myönnettävät-erityisjärjestelyt}
 
 Kokelas, joka on sairauden, vamman, erityisen vaikean elämäntilanteen,
 lukemisen ja kirjoittamisen erityisvaikeuden, vieraskielisyyden taikka
@@ -1922,7 +1922,7 @@ Lautakunnalla on erillinen määräys, joka koskee koesuoritusta
 heikentävän syyn huomioon ottamista ylioppilastutkinnossa (ks. myös
 1.7.4. Koesuoritusta heikentävän syyn huomioon ottaminen arvostelussa).
 
-## Yhteiset koetilaisuudet  {#yhteiset-koetilaisuudet .Otsikko-4.1}
+####1. Yhteiset koetilaisuudet  {#yhteiset-koetilaisuudet}
 
 Lukiot voivat järjestää yhteisiä koetilaisuuksia. Lukiot voivat myös
 sopia, että yksittäiset kokelaat suorittavat tutkintokerran kokeensa tai
@@ -1940,7 +1940,7 @@ järjestettyyn koetilaisuuteen kokelas osallistui.
 Lautakunta toimittaa ilmoittautumistietojen perusteella kuhunkin lukioon
 niiden omat tutkintotulokset ja todistukset.
 
-## Tutkintomaksut  {#tutkintomaksut .Otsikko-3.1}
+###1. Tutkintomaksut  {#tutkintomaksut}
 
 Opetus- ja kulttuuriministeriö vahvistaa tutkintomaksut ja muut
 tutkintoon liittyvät julkisoikeudelliset suoritteet (L 502/2019, 20 §.).
@@ -1962,7 +1962,7 @@ maaliskuuta ja syksyn tutkinnon maksut viimeistään 5. syyskuuta.
 Todistuksen antaminen edellyttää, että tutkintokertoihin ja kokeisiin
 osallistumisesta säädetyt maksut on suoritettu (L 502/2019, 19 §).
 
-## Kokeiden suorittaminen ilman maksua  {#kokeiden-suorittaminen-ilman-maksua .Otsikko-4.1}
+####1. Kokeiden suorittaminen ilman maksua  {#kokeiden-suorittaminen-ilman-maksua}
 
 Oppivelvollisuuslain mukaiseen maksuttomaan koulutukseen oikeutetut
 kokelaat voivat suorittaa myös ylioppilastutkinnon kokeita maksutta.
@@ -2031,7 +2031,7 @@ tiedot ajantasaisina (L 884/2017, 6 §). Koulutuksen järjestäjän oma
 päätös maksuttoman koulutuksen tarjoamisesta lainsäädäntöä laajemmalle
 joukolle ei vaikuta ylioppilastutkinnon kokeiden maksullisuuteen.
 
-## Koekohtaisten maksujen palauttaminen  {#koekohtaisten-maksujen-palauttaminen .Otsikko-4.1}
+####1. Koekohtaisten maksujen palauttaminen  {#koekohtaisten-maksujen-palauttaminen}
 
 Jos ennen kokeiden alkamista on todettu, että tutkintoon ilmoittautunut
 kokelas ei täytäkään osallistumiselle asetettuja vaatimuksia, tai jos
@@ -2043,9 +2043,9 @@ Pyyntö maksujen palauttamisesta on esitettävä lautakunnalle viimeistään
 sen vuoden loppuun mennessä, jonka aikana järjestetystä tutkinnosta on
 kyse.
 
-## Kokeiden järjestäminen  {#kokeiden-järjestäminen .Otsikko-3.1}
+###1. Kokeiden järjestäminen  {#kokeiden-järjestäminen}
 
-## USB-muistien, purkukoodien ja avainlukulistojen vastaanottaminen  {#usb-muistien-purkukoodien-ja-avainlukulistojen-vastaanottaminen .Otsikko-4.1}
+####1. USB-muistien, purkukoodien ja avainlukulistojen vastaanottaminen  {#usb-muistien-purkukoodien-ja-avainlukulistojen-vastaanottaminen}
 
 Rehtori avaa opettajan läsnä ollessa USB-muisteja sisältävän
 postilähetyksen. Avaamisen tulee tapahtua heti lähetyksen saavuttua, ja
@@ -2069,7 +2069,7 @@ USB-muisteja muutama enemmän kuin niitä on tilattu.
 Lukio ei lähetä avauspöytäkirjoja lautakuntaan vaan säilyttää ne
 arkistossaan yhden vuoden ajan mahdollista myöhempää tarvetta varten.
 
-## Koetehtävien, USB-muistien, purkukoodien ja avainlukulistojen säilyttäminen  {#koetehtävien-usb-muistien-purkukoodien-ja-avainlukulistojen-säilyttäminen .Otsikko-4.1}
+####1. Koetehtävien, USB-muistien, purkukoodien ja avainlukulistojen säilyttäminen  {#koetehtävien-usb-muistien-purkukoodien-ja-avainlukulistojen-säilyttäminen}
 
 Rehtori lataa koetehtävät ennen koepäivää lautakunnan tutkintopalvelusta
 USB-muistille.
@@ -2086,9 +2086,9 @@ avainlukulistat säilytettävä pankin tai postikonttorin holvissa.
 Sekä kokelaiden tietokoneiden USB-muistit että koetilan palvelimen
 USB-muistit on säilytettävä turvallisessa paikassa.
 
-## Koetilat  {#koetilat .Otsikko-4.1}
+####1. Koetilat  {#koetilat}
 
-## Koetila ja sen kalustaminen {#koetila-ja-sen-kalustaminen .Otsikko-5.1}
+#####1. Koetila ja sen kalustaminen {#koetila-ja-sen-kalustaminen}
 
 Koetilaksi varataan riittävän tilava ja häiriötön huone. Koetilan
 kalustuksen ja kokelaiden sijoittelun tulee tukea kokelaan häiriötöntä
@@ -2108,7 +2108,7 @@ Jos lukio säilyttää kokelaiden tarkistettuja apuvälineitä, tietokoneita
 ja niihin liitettäviä lisälaitteita tiloissaan, tulee varmistaa, että
 tilat ovat lukitut ja muutoinkin turvalliset.
 
-## Istumajärjestys {#istumajärjestys .Otsikko-5.1}
+#####1. Istumajärjestys {#istumajärjestys}
 
 Istumapaikkojen sijoittelun on oltava sellainen, ettei kokelailla ole
 tilaisuutta nähdä toistensa koevastauksia. Valvovien opettajien paikat
@@ -2124,7 +2124,7 @@ Koetilan istumajärjestystä laadittaessa tulee ottaa huomioon
 erityisjärjestelypäätökset. Muut sairauteen tai vammaan rinnastettavat
 erityiset tarpeet voidaan ottaa huomioon kokelaiden sijoittelussa.
 
-## Varapaikat {#varapaikat .Otsikko-5.1}
+#####1. Varapaikat {#varapaikat}
 
 Kokeen aikana mahdollisesti ilmenevien vikatilanteiden varalle koetilaan
 on varattava tyhjiä istumapaikkoja 5 % koetilassa olevien kokelaiden
@@ -2138,19 +2138,19 @@ Vähimmäislukumäärät eivät koske erillisiin koetiloihin sijoitettuja
 kokelaspaikkoja. Näiden osalta lukiolla on oltava varasuunnitelma
 tietoliikenneongelmien varalta.
 
-## WC-tilat {#wc-tilat .Otsikko-5.1}
+#####1. WC-tilat {#wc-tilat}
 
 Kokelaan tulee olla mahdollista käyttää kokeen aikana WC:tä valvojan
 saattamana. WC-tiloja tulee olla useampi kuin yksi. WC-tiloihin ei
 tutkinnon aikana saa olla ulkopuolisilla pääsyä. Kokelailla tulee olla
 mahdollisuus myös käsien pesuun.
 
-## Koetilaisuus  {#koetilaisuus .Otsikko-4.1}
+####1. Koetilaisuus  {#koetilaisuus}
 
 Koetilaisuuden kulkuun ja valvojien tehtäviin liittyviä tarkempia
 määräyksiä ja ohjeita löytyy myös liitteestä 4 (Valvojan ohje).
 
-## Koetilan valmistelu {#koetilan-valmistelu .Otsikko-5.1}
+#####1. Koetilan valmistelu {#koetilan-valmistelu}
 
 Rehtori vastaa siitä, että koetilassa on ennen koetilaisuuden alkua
 koetehtävät sisältävä USB-muisti, purkukoodin perusosan ja
@@ -2170,7 +2170,7 @@ ylimääräisiä kirjoitusvälineitä ja luonnospaperia, paperinenäliinoja,
 ensiaputarvikkeita ja mahdollisesti lääkkeitä tavallisimpia
 sairaustapauksia varten.
 
-## Koetehtävien lataaminen ja avainlukulistat {#koetehtävien-lataaminen-ja-avainlukulistat .Otsikko-5.1}
+#####1. Koetehtävien lataaminen ja avainlukulistat {#koetehtävien-lataaminen-ja-avainlukulistat}
 
 Koetilaisuuden alussa rehtori, kaksi valvojaa ja rehtorin valitsema
 kokelas toteavat purkukoodin perusosan ja avainlukulistat sisältävän
@@ -2185,14 +2185,14 @@ koetilan palvelimelle.
 Tietoa koetehtävistä tai kokeen sisällöstä ei saa levittää koesalin
 ulkopuolelle ennen klo 12:ta.
 
-## Koetilassa paikalla olevat henkilöt  {#koetilassa-paikalla-olevat-henkilöt .Otsikko-5.1}
+#####1. Koetilassa paikalla olevat henkilöt  {#koetilassa-paikalla-olevat-henkilöt}
 
 Koesaliin ei ole lupa päästää muita henkilöitä kuin kokeeseen
 ilmoittautuneet kokelaat, rehtori ja valvojat. Esimerkiksi
 tiedotusvälineiden edustajilla ei ole lupaa päästä koesaliin ennen
 kokeen alkua tai kokeen aikana.
 
-## Matkapuhelinten ja muiden elektronisten laitteiden käyttö koetilassa {#matkapuhelinten-ja-muiden-elektronisten-laitteiden-käyttö-koetilassa .Otsikko-5.1}
+#####1. Matkapuhelinten ja muiden elektronisten laitteiden käyttö koetilassa {#matkapuhelinten-ja-muiden-elektronisten-laitteiden-käyttö-koetilassa}
 
 Kokelailta on matkapuhelimien ja muiden elektronisten laitteiden, kuten
 älykellojen, tuominen koesaliin ehdottomasti kielletty (Vrt. 1.5.1
@@ -2204,7 +2204,7 @@ Valvoja saa käyttää puhelintaan koetilassa vain tutkinnon järjestämiseen
 liittyvässä pakottavassa tilanteessa. (Vrt. 1.6 Vilppi ja
 tutkintojärjestyksen rikkominen.)
 
-## Kokelaiden koneiden käynnistäminen ja kokelaiden tunnistaminen {#kokelaiden-koneiden-käynnistäminen-ja-kokelaiden-tunnistaminen .Otsikko-5.1}
+#####1. Kokelaiden koneiden käynnistäminen ja kokelaiden tunnistaminen {#kokelaiden-koneiden-käynnistäminen-ja-kokelaiden-tunnistaminen}
 
 Kokelaat käynnistävät tietokoneensa lautakunnan toimittamalta kokelaan
 koneen USB-muistilta. Edellä mainitusta määräyksestä voi poiketa
@@ -2217,7 +2217,7 @@ koejärjestelmään syöttämänsä nimen ja henkilötunnuksen. Valvoja voi
 samalla tarkistaa, että kokelaat ovat valinneet oikean kokeen ja
 kieliversion.
 
-## Koetilanteen keskeyttäminen ja kuulutukset {#koetilanteen-keskeyttäminen-ja-kuulutukset .Otsikko-5.1}
+#####1. Koetilanteen keskeyttäminen ja kuulutukset {#koetilanteen-keskeyttäminen-ja-kuulutukset}
 
 Ennen kokeen alkua ja koetilanteen ollessa keskeytynyt kokelas ei saa
 tehdä muistiinpanoja tai merkintöjä paperille tai tietokoneellaan.
@@ -2225,7 +2225,7 @@ tehdä muistiinpanoja tai merkintöjä paperille tai tietokoneellaan.
 Koetilaisuudessa ei ole lupa kuuluttaa kokelaille mitään koetehtäviä
 koskevaa, ellei Ylioppilastutkintolautakunta ole pyytänyt näin tekemään.
 
-## WC-käynnit koetilaisuuden aikana {#wc-käynnit-koetilaisuuden-aikana .Otsikko-5.1}
+#####1. WC-käynnit koetilaisuuden aikana {#wc-käynnit-koetilaisuuden-aikana}
 
 Kokelaan on WC-käynnin aikana käytettävä tietokoneessaan näytönsuojaa
 tai näytönsäästäjää tai varmistettava muulla tavoin, ettei hänen
@@ -2235,7 +2235,7 @@ pääteltävissä, mitä WC:tä kulloinkin käytetään. Lukion tulee muutenkin
 huolehtia siitä, että WC:ssä käynti ei anna mahdollisuutta viestittää
 tietoja kokelaalta toiselle.
 
-## Kahden kielikokeen suorittajat {#kahden-kielikokeen-suorittajat .Otsikko-5.1}
+#####1. Kahden kielikokeen suorittajat {#kahden-kielikokeen-suorittajat}
 
 Kokelaan, joka suorittaa kaksi lyhyeen oppimäärään perustuvaa
 kielikoetta samana päivänä, tulee suorittaa kokeet peräkkäin. Hän voi
@@ -2245,7 +2245,7 @@ koetta, hän pyytää valvojan paikalle. Valvoja tunnistaa kokelaan kuten
 edellä on kuvattu. Kokelas ei voi toisen kokeen aloittamisen jälkeen
 palata takaisin ensin suorittamaansa kokeeseen.
 
-## Kahvitarjoilu kokeen aikana {#kahvitarjoilu-kokeen-aikana .Otsikko-5.1}
+#####1. Kahvitarjoilu kokeen aikana {#kahvitarjoilu-kokeen-aikana}
 
 Lukio voi halutessaan järjestää kokeen aikana kahvi- ja teetarjoilun sen
 mukaan, miten kokelaiden kanssa on etukäteen sovittu. Tarjoilussa
@@ -2254,7 +2254,7 @@ ajaksi tulisi normaalivalvontaa tehostaa.
 
 Tupakointitaukoja tms. ei kokeen aikana ole lupa järjestää.
 
-## Kokeen päättäminen {#kokeen-päättäminen .Otsikko-5.1}
+#####1. Kokeen päättäminen {#kokeen-päättäminen}
 
 Päätettyään kokeen suorittamisen kokelas irrottaa USB-muistin
 tietokoneestaan ja toimittaa sen valvojalle. Valvoja varmistaa, että
@@ -2264,7 +2264,7 @@ varmistaa, että jokaisessa luonnoksessa on kokelaan nimi. Kun koeaika on
 päättynyt ja valvoja on ilmoittanut siitä kokelaille, valvoja päättää
 kokeen koetilan palvelimelta.
 
-## Koetilaisuuden päättäminen ja koesuoritusten siirtäminen tutkintopalveluun {#koetilaisuuden-päättäminen-ja-koesuoritusten-siirtäminen-tutkintopalveluun .Otsikko-5.1}
+#####1. Koetilaisuuden päättäminen ja koesuoritusten siirtäminen tutkintopalveluun {#koetilaisuuden-päättäminen-ja-koesuoritusten-siirtäminen-tutkintopalveluun}
 
 Kaikkien kokelaiden poistuttua koetilasta valvoja tallentaa
 koesuoritukset koetilan palvelimelta erilliselle USB-muistille ja
@@ -2287,7 +2287,7 @@ tutkintopalveluun, tulee olla lukion opettaja. Hänellä tulee myös olla
 tutkintopalvelussa annettuna oikeus osallistua kyseisen tutkintokerran
 kokeiden alustavaan arvosteluun.
 
-## USB-muistien käsittely koetilaisuuden jälkeen {#usb-muistien-käsittely-koetilaisuuden-jälkeen .Otsikko-5.1}
+#####1. USB-muistien käsittely koetilaisuuden jälkeen {#usb-muistien-käsittely-koetilaisuuden-jälkeen}
 
 Koetilan palvelimessa ja varapalvelimessa käytettyjä USB-muisteja saa
 käyttää uudelleen saman tutkintokerran kokeissa. USB-muistia, jota on
@@ -2298,12 +2298,12 @@ saman tutkintokerran kokeissa. Palvelimissa, valvojan koneissa ja
 kokelaiden koneissa käytetyt USB-muistit palautetaan lautakuntaan
 tutkintokerran jälkeen.
 
-## Valvojat  {#valvojat .Otsikko-4.1}
+####1. Valvojat  {#valvojat}
 
 Koetilaisuuden kulkuun ja valvojien tehtäviin liittyviä tarkempia
 määräyksiä ja ohjeita löytyy myös liitteestä 4 (Valvojan ohje).
 
-## Valvojat ja heidän tehtävänsä {#valvojat-ja-heidän-tehtävänsä .Otsikko-5.1}
+#####1. Valvojat ja heidän tehtävänsä {#valvojat-ja-heidän-tehtävänsä}
 
 Koetilaisuuksia valvovat lukion opettajat. Rehtorin harkinnan mukaan
 opettajien lisäksi voidaan tarvittaessa käyttää myös lukion entisiä
@@ -2318,7 +2318,7 @@ ja valvojien ei ole lupa tulla koetilaan. Jos lukio haluaa, että
 koetilaisuudessa on paikalla teknisiä tukihenkilöitä, heitä koskevat
 samat määräykset kuin valvojia.
 
-## Valvojien lukumäärä {#valvojien-lukumäärä .Otsikko-5.1}
+#####1. Valvojien lukumäärä {#valvojien-lukumäärä}
 
 Rehtorin on huolehdittava siitä, että valvojia on koetilaisuudessa
 tarpeeksi. Riittävä varmuus tulee saavuttaa kaikissa odotettavissa
@@ -2344,7 +2344,7 @@ Jos valvojia on vain yksi, tulee varmistaa välitön ja toimiva yhteys
 koesalissa olevan valvojan ja jonkun muun opettajan välillä koko kokeen
 ajaksi esimerkiksi puhelimen avulla.
 
-## Kameroiden käyttö koetilaisuuden valvonnassa {#kameroiden-käyttö-koetilaisuuden-valvonnassa .Otsikko-5.1}
+#####1. Kameroiden käyttö koetilaisuuden valvonnassa {#kameroiden-käyttö-koetilaisuuden-valvonnassa}
 
 Lautakunta ei rajoita tallentavien kameroiden käyttöä kokeiden
 valvonnassa. Päätöksen kameroiden käytöstä kokeiden valvonnassa tekee
@@ -2366,7 +2366,7 @@ tarpeetonta.
 Valvojaksi määrätyt henkilöt voivat katsoa kameroiden lähettämää kuvaa
 myös kokeen aikana.
 
-## Kameroiden käyttö erillisen tilan valvonnassa {#kameroiden-käyttö-erillisen-tilan-valvonnassa .Otsikko-5.1}
+#####1. Kameroiden käyttö erillisen tilan valvonnassa {#kameroiden-käyttö-erillisen-tilan-valvonnassa}
 
 Erillisessä tilassa työskentelevää yksittäistä kokelasta ja hänen
 mahdollista avustajaansa on myös mahdollista valvoa kameroiden avulla.
@@ -2378,7 +2378,7 @@ saaminen valvojaan voi perustua esimerkiksi kamerayhteyden kautta
 havaittavaan merkkiin tai usean tilan yhteisvalvojan tavoittamiseen
 äänimerkillä.
 
-## Valvonnassa käytettyjen kameroiden tallenteet  {#valvonnassa-käytettyjen-kameroiden-tallenteet .Otsikko-5.1}
+#####1. Valvonnassa käytettyjen kameroiden tallenteet  {#valvonnassa-käytettyjen-kameroiden-tallenteet}
 
 Tallenteita saavat katsoa vain rehtori ja kokeiden valvojiksi määrätyt
 henkilöt. Tallenteita katsotaan satunnaistarkasteluna sekä vilppiepäilyn
@@ -2404,9 +2404,9 @@ ja ohjeita tämän kohdan määräysten sijaan.
 Kameroiden käytöstä koetilan valvonnassa tehdään merkintä
 koepöytäkirjaan.
 
-##  {#section .Otsikko-5.1}
+#####1.  {#section}
 
-## Valvojien toiminta koetilaisuudessa {#valvojien-toiminta-koetilaisuudessa .Otsikko-5.1}
+#####1. Valvojien toiminta koetilaisuudessa {#valvojien-toiminta-koetilaisuudessa}
 
 Valvonnassa tulee keskittyä havaitsemaan erityisesti kokelaiden välistä
 vuorovaikutusta, luvattomien apuvälineiden käyttöä ja tietokoneiden
@@ -2422,7 +2422,7 @@ Valvojan ei ole lupa tarkastella kokelaan suorituksia eikä puhutella
 häntä, ellei kokelas itse ole viittaamalla ilmaissut, että hänellä on
 kysyttävää, tai ellei lautakunta ohjeista valvojaa tekemään näin.
 
-## Toiminta ongelmatilanteissa {#toiminta-ongelmatilanteissa .Otsikko-5.1}
+#####1. Toiminta ongelmatilanteissa {#toiminta-ongelmatilanteissa}
 
 Valvojien tehtävänä on reagoida poikkeustilanteisiin valvojan ohjeen
 (liite 4) mukaisesti. Tarvittaessa lukiosta otetaan välittömästi
@@ -2433,7 +2433,7 @@ Lukio tekee tarvittaessa koetilaisuuden jälkeen lautakunnalle
 ilmoituksen teknisestä häiriöstä kokeessa, jos häiriö on vaikuttanut
 yhden tai useamman kokelaan koesuoritukseen.
 
-## Kokelaan käyttämä kirjasinkoko {#kokelaan-käyttämä-kirjasinkoko .Otsikko-5.1}
+#####1. Kokelaan käyttämä kirjasinkoko {#kokelaan-käyttämä-kirjasinkoko}
 
 Vilpin estämiseksi valvoja voi määrätä kokelasta pienentämään vastauksia
 sisältävien ikkunoiden kirjasinkokoa, kuvia tai muita merkintöjä.
@@ -2445,7 +2445,7 @@ merkintöjä tai jos hän valvojan kehotuksen jälkeen uudestaan saman
 kokeen aikana suurentaa kirjasinkokoa tai muita merkintöjä, tilanne
 voidaan katsoa vilpin yritykseksi.
 
-## Kokelaan neuvominen kokeen aikana {#kokelaan-neuvominen-kokeen-aikana .Otsikko-5.1}
+#####1. Kokelaan neuvominen kokeen aikana {#kokelaan-neuvominen-kokeen-aikana}
 
 Valvojat tai muut koetilassa olevat henkilöt eivät saa kokeen aikana
 neuvoa kokelasta tietokoneen, varatietokoneen tai koejärjestelmän
@@ -2453,12 +2453,12 @@ käytössä. Poikkeuksen muodostavat valvojan ohjeessa (liite 4) mainitut
 tilanteet. Lautakunta voi myös muissa tilanteissa tarvittaessa ohjeistaa
 valvojia opastamaan kokelaita.
 
-## Koeaika  {#koeaika .Otsikko-4.1}
+####1. Koeaika  {#koeaika}
 
 Koetilaisuuden kulkuun ja valvojien tehtäviin liittyviä tarkempia
 määräyksiä ja ohjeita löytyy myös liitteestä 4 (Valvojan ohje).
 
-## Kokeen alkamisaika ja kesto {#kokeen-alkamisaika-ja-kesto .Otsikko-5.1}
+#####1. Kokeen alkamisaika ja kesto {#kokeen-alkamisaika-ja-kesto}
 
 Koetilaisuudet on aloitettava kaikissa lukioissa ennen klo 9:ää luvussa
 2.3.4 kuvatulla tavalla. Itse kokeen tekemisen saa aloittaa aikaisintaan
@@ -2472,7 +2472,7 @@ koetilan palvelimelta. Kuitenkin silloin, kun kokelas suorittaa kaksi
 lyhyeen oppimäärään perustuvaa kielikoetta samana päivänä, hänellä on
 niiden suorittamiseen aikaa yhteensä kahdeksan tuntia.
 
-## Poistuminen kokeesta ennen klo 12:ta {#poistuminen-kokeesta-ennen-klo-12ta .Otsikko-5.1}
+#####1. Poistuminen kokeesta ennen klo 12:ta {#poistuminen-kokeesta-ennen-klo-12ta}
 
 Jos kokelas kiellosta huolimatta poistuu koetilaisuudesta ennen klo
 12:ta, lukion on välittömästi ilmoitettava siitä lautakunnalle. Myös
@@ -2480,7 +2480,7 @@ silloin, jos kokelas äkillisesti sairastuu koetilaisuudessa, on
 lautakuntaan ilmoitettava asiasta. Sairaustapauksessa lukion on
 huolehdittava kokelaan valvonnasta klo 12:een asti.
 
-## Koetilaisuudesta myöhästyminen  {#koetilaisuudesta-myöhästyminen .Otsikko-5.1}
+#####1. Koetilaisuudesta myöhästyminen  {#koetilaisuudesta-myöhästyminen}
 
 Jos kokelas myöhästyy kokeesta mutta saapuu paikalle ennen klo 10:tä,
 hänen voidaan sallia osallistua kokeeseen. Koepöytäkirjaan merkitään
@@ -2494,7 +2494,7 @@ kokelaiden. Jos myöhästymisen syy on kuitenkin ollut kokelaasta täysin
 riippumaton, voi lukio neuvotella koeajan jatkamisesta lautakunnan
 kanslian kanssa.
 
-## Kokeen suorittamisen keskeytyminen {#kokeen-suorittamisen-keskeytyminen .Otsikko-5.1}
+#####1. Kokeen suorittamisen keskeytyminen {#kokeen-suorittamisen-keskeytyminen}
 
 Jos kokeen suorittaminen keskeytyy kokelaasta riippumattoman teknisen
 syyn vuoksi, hyvitetään menetetty koeaika kokelaalle. Menetetyksi
@@ -2508,7 +2508,7 @@ poikkeuksellisissa tilanteissa esimerkiksi ajallisen hyvityksen.
 Ajallisen hyvityksen antaminen edellyttää yhteydenottoa lautakuntaan
 kokeen aikana.
 
-## ~~Koeaika poikkeuksellisesti järjestetyssä kokeessa~~  {#koeaika-poikkeuksellisesti-järjestetyssä-kokeessa .Otsikko-5.1}
+#####1. ~~Koeaika poikkeuksellisesti järjestetyssä kokeessa~~  {#koeaika-poikkeuksellisesti-järjestetyssä-kokeessa}
 
 ~~Kun sairastuneen kokelaan koe järjestetään lautakunnan kanssa
 sovitulla tavalla sairaalassa tai kokelaan kotona, koeaika alkaa siitä
@@ -2517,7 +2517,7 @@ tehdään merkintä koepöytäkirjaan. Sairastuneen kokelaan koeaika on sama
 kuin muidenkin kokelaiden, ellei lautakunta hakemuksesta ole myöntänyt
 hänelle lisäaikaa kokeen suorittamiseen.~~
 
-## Koepöytäkirjat  {#koepöytäkirjat .Otsikko-4.1}
+####1. Koepöytäkirjat  {#koepöytäkirjat}
 
 Lukio tulostaa koepöytäkirjalomakkeet lautakunnan tutkintopalvelusta.
 Jos kokeeseen saapuneen kokelaan nimi puuttuu pöytäkirjasta, hänen
@@ -2538,7 +2538,7 @@ Alkuperäiset koepöytäkirjat lähetetään yhdellä kertaa lautakuntaan
 viikon kuluessa siitä, kun kaikki tutkinnon kokeet on pidetty. Lukion
 tulee säilyttää itsellään kopio tai kaksoiskappale koepöytäkirjoista.
 
-## Esteellisyys ja tutkintopalvelun käyttöoikeudet  {#esteellisyys-ja-tutkintopalvelun-käyttöoikeudet .Otsikko-3.1}
+###1. Esteellisyys ja tutkintopalvelun käyttöoikeudet  {#esteellisyys-ja-tutkintopalvelun-käyttöoikeudet}
 
 Hallintolain mukainen virkamiehen esteellisyys voi koskea lukion
 rehtoria, opettajaa tai muuta henkilöstöä, joka hoitaa tutkinnon
@@ -2663,7 +2663,7 @@ merkitsee lautakunnan tutkintopalveluun kunkin arvostelijan hallintolain
 mukaisten läheisten aiheuttamat esteellisyydet arvostelijan oman
 esteellisyysilmoituksen mukaisesti.
 
-## Lukiossa arkistoitavat asiakirjat  {#lukiossa-arkistoitavat-asiakirjat .Otsikko-3.1}
+###1. Lukiossa arkistoitavat asiakirjat  {#lukiossa-arkistoitavat-asiakirjat}
 
 Avauspöytäkirjat tulee säilyttää lukioissa vuoden ajan.
 
