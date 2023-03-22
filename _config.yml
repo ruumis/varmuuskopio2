@@ -44,4 +44,10 @@ search:
 # Supports true (default) or false
 heading_anchors: true
 
+plugins:
+  - jekyll-multiple-languages-plugin
+
+languages: ["fi", "sv"]
+default_locale_in_subfolder: true
+
 
