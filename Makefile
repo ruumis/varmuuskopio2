@@ -1,4 +1,5 @@
 PANDOC_PARAMS := --markdown-headings=atx --number-sections
+PWD := $(shell pwd)
 
 convert:
 #	pandoc -f docx -t markdown _includes/docx/K2023_yleiset_maaraykset_ja\ _ohjeet_FI+tod.docx $(PANDOC_PARAMS) -o - | perl -pe 's/^(#+) /$${1}1. /g' >docs/fi-yleiset_maaraykset_ja_ohjeet.md.tmp
@@ -11,3 +12,10 @@ convert:
 	cat docs/sv-yleiset_maaraykset_ja_ohjeet.md.tmp >>docs/sv-yleiset_maaraykset_ja_ohjeet.md
 
 	rm docs/*.tmp
+
+start:
+	docker run --rm \
+		--volume="$(PWD):/srv/jekyll:Z" \
+		--publish [::1]:4000:4000 \
+		jekyll/jekyll \
+		jekyll serve

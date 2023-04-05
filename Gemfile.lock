@@ -76,6 +76,7 @@ DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-numbered-headings
   just-the-docs (= 0.4.2)
+  webrick
 
 BUNDLED WITH
    2.3.9
